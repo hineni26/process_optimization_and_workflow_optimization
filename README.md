@@ -81,18 +81,3 @@ python analyze.py
 
 # Step 5 — Import CSVs from output/ into Power BI
 ```
-
----
-
-## Interview Talking Points
-
-- **Bottleneck identified:** IT Setup averages 9.7 days — 4× longer than other steps.
-  Recommendation: automate IT provisioning to cut onboarding by ~40%.
-
-- **Attrition hotspot:** Sales dept at 31.4%. Exit reason analysis shows Relocation
-  and Work-Life Balance as top drivers — actionable via flexible work policy.
-
-- **Resource allocation:** Salary-per-performance-unit analysis reveals Junior staff
-  are proportionally underpaid relative to output — retention risk.
-
-- **High performers:** Only 14% score ≥ 4.0 — targeted retention programs needed.

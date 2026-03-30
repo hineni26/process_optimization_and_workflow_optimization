@@ -1,10 +1,3 @@
-"""
-HR Process Optimization & Workflow Analytics
----------------------------------------------
-Analyzes employee workflows to identify bottlenecks,
-inefficiencies, and resource allocation opportunities.
-"""
-
 import pandas as pd
 import numpy as np
 import sqlite3
@@ -14,24 +7,18 @@ import matplotlib.gridspec as gridspec
 import warnings
 warnings.filterwarnings("ignore")
 
-# ─────────────────────────────────────────────
-# LOAD DATA
-# ─────────────────────────────────────────────
 conn = sqlite3.connect("output/hr_analytics.db")
-df_emp     = pd.read_sql("SELECT * FROM employees",           conn)
-df_onboard = pd.read_sql("SELECT * FROM onboarding",         conn)
-df_leave   = pd.read_sql("SELECT * FROM leave_requests",     conn)
-df_reviews = pd.read_sql("SELECT * FROM performance_reviews",conn)
+df_emp     = pd.read_sql("SELECT * FROM employees",            conn)
+df_onboard = pd.read_sql("SELECT * FROM onboarding",          conn)
+df_leave   = pd.read_sql("SELECT * FROM leave_requests",      conn)
+df_reviews = pd.read_sql("SELECT * FROM performance_reviews", conn)
 conn.close()
 
 print("=" * 60)
 print("  HR PROCESS OPTIMIZATION & WORKFLOW ANALYTICS")
 print("=" * 60)
 
-# ─────────────────────────────────────────────
-# 1. ATTRITION ANALYSIS
-# ─────────────────────────────────────────────
-print("\n📊 [1] ATTRITION ANALYSIS")
+print("\n[1] ATTRITION ANALYSIS")
 print("-" * 40)
 
 attrition_by_dept = df_emp.groupby("department")["is_active"].apply(
@@ -52,10 +39,8 @@ top_exit = df_emp[df_emp["is_active"] == 0]["exit_reason"].value_counts().head(5
 print("\nTop Exit Reasons:")
 print(top_exit.to_string())
 
-# ─────────────────────────────────────────────
-# 2. ONBOARDING BOTTLENECK DETECTION
-# ─────────────────────────────────────────────
-print("\n\n🔍 [2] ONBOARDING BOTTLENECK ANALYSIS")
+
+print("\n\n[2] ONBOARDING BOTTLENECK ANALYSIS")
 print("-" * 40)
 
 bottleneck = df_onboard.groupby("step")["days_taken"].agg(
@@ -64,17 +49,15 @@ bottleneck = df_onboard.groupby("step")["days_taken"].agg(
 print(bottleneck.to_string())
 
 worst_step = bottleneck["avg_days"].idxmax()
-print(f"\n⚠️  Bottleneck Identified: '{worst_step}' takes the longest on average.")
-print(f"   Avg days: {bottleneck.loc[worst_step, 'avg_days']} | Max: {bottleneck.loc[worst_step, 'max_days']} days")
+print(f"\nBottleneck Identified: '{worst_step}' takes the longest on average.")
+print(f"Avg days: {bottleneck.loc[worst_step, 'avg_days']} | Max: {bottleneck.loc[worst_step, 'max_days']} days")
 
 dept_onboard = df_onboard.groupby("department")["days_taken"].mean().round(1).sort_values(ascending=False)
 print("\nAvg Onboarding Days per Department:")
 print(dept_onboard.to_string())
 
-# ─────────────────────────────────────────────
-# 3. LEAVE & RESOURCE ALLOCATION
-# ─────────────────────────────────────────────
-print("\n\n📅 [3] LEAVE & RESOURCE ALLOCATION")
+
+print("\n\n[3] LEAVE & RESOURCE ALLOCATION")
 print("-" * 40)
 
 leave_by_dept = df_leave.groupby("department").agg(
@@ -91,10 +74,8 @@ leave_by_type = df_leave.groupby("leave_type")["days_taken"].agg(
 print("\nLeave by Type:")
 print(leave_by_type.to_string())
 
-# ─────────────────────────────────────────────
-# 4. PERFORMANCE INSIGHTS
-# ─────────────────────────────────────────────
-print("\n\n⭐ [4] PERFORMANCE INSIGHTS")
+
+print("\n\n[4] PERFORMANCE INSIGHTS")
 print("-" * 40)
 
 perf_dept = df_reviews.groupby("department")["score"].agg(
@@ -104,15 +85,13 @@ print("Performance Score by Department:")
 print(perf_dept.to_string())
 
 high_perf = df_emp[df_emp["performance"] >= 4.0]
-print(f"\n🌟 High Performers (score ≥ 4.0): {len(high_perf)} employees ({round(len(high_perf)/len(df_emp)*100,1)}%)")
+print(f"\nHigh Performers (score >= 4.0): {len(high_perf)} employees ({round(len(high_perf)/len(df_emp)*100,1)}%)")
 
 underperf = df_emp[df_emp["performance"] < 2.5]
-print(f"⚠️  Underperformers (score < 2.5): {len(underperf)} employees ({round(len(underperf)/len(df_emp)*100,1)}%)")
+print(f"Underperformers (score < 2.5): {len(underperf)} employees ({round(len(underperf)/len(df_emp)*100,1)}%)")
 
-# ─────────────────────────────────────────────
-# 5. EFFICIENCY METRICS SUMMARY
-# ─────────────────────────────────────────────
-print("\n\n📈 [5] KEY EFFICIENCY METRICS")
+
+print("\n\n[5] KEY EFFICIENCY METRICS")
 print("-" * 40)
 
 total_onboard_days = df_onboard.groupby("employee_id")["days_taken"].sum().mean()
@@ -122,9 +101,7 @@ print(f"Leave Approval Rate:             {round(df_leave['approved'].mean()*100,
 print(f"Avg Performance Score:           {round(df_reviews['score'].mean(), 2)}/5.0")
 print(f"Depts with >20% Attrition:       {(attrition_by_dept['attrition_rate_%'] > 20).sum()}")
 
-# ─────────────────────────────────────────────
-# 6. EXPORT POWER BI READY SUMMARY
-# ─────────────────────────────────────────────
+
 summary_kpis = pd.DataFrame([
     {"metric": "Total Employees",          "value": len(df_emp)},
     {"metric": "Active Employees",         "value": df_emp["is_active"].sum()},
@@ -140,11 +117,9 @@ attrition_by_dept.to_csv("output/powerbi_attrition_by_dept.csv", index=False)
 bottleneck.reset_index().to_csv("output/powerbi_onboarding_bottleneck.csv", index=False)
 leave_by_dept.reset_index().to_csv("output/powerbi_leave_by_dept.csv", index=False)
 perf_dept.reset_index().to_csv("output/powerbi_performance_by_dept.csv", index=False)
-print("\n✅ Power BI CSVs exported to output/")
+print("\nPower BI CSVs exported to output/")
 
-# ─────────────────────────────────────────────
-# 7. MATPLOTLIB DASHBOARD
-# ─────────────────────────────────────────────
+
 fig = plt.figure(figsize=(18, 12), facecolor="#0f1117")
 fig.suptitle("HR Process Optimization & Workflow Analytics",
              fontsize=20, fontweight="bold", color="white", y=0.98)
@@ -165,7 +140,6 @@ def style_ax(ax, title):
     ax.xaxis.label.set_color(TEXT)
     ax.yaxis.label.set_color(TEXT)
 
-# Chart 1: Attrition by Department
 ax1 = fig.add_subplot(gs[0, 0])
 bars = ax1.barh(attrition_by_dept["department"], attrition_by_dept["attrition_rate_%"],
                 color=COLORS, edgecolor="none")
@@ -176,7 +150,6 @@ style_ax(ax1, "Attrition Rate by Department")
 ax1.set_xlabel("Attrition %")
 ax1.set_xlim(0, attrition_by_dept["attrition_rate_%"].max() + 8)
 
-# Chart 2: Onboarding Bottleneck
 ax2 = fig.add_subplot(gs[0, 1])
 b_sorted = bottleneck.sort_values("avg_days")
 bar_colors = ["#e57373" if s == worst_step else ACCENT for s in b_sorted.index]
@@ -189,7 +162,6 @@ ax2.set_xlabel("Avg Days")
 red_patch = mpatches.Patch(color="#e57373", label="Bottleneck")
 ax2.legend(handles=[red_patch], facecolor=BG, labelcolor=TEXT, fontsize=8)
 
-# Chart 3: Leave by Type
 ax3 = fig.add_subplot(gs[0, 2])
 wedges, texts, autotexts = ax3.pie(
     leave_by_type["total_days"],
@@ -205,7 +177,6 @@ for at in autotexts:
     at.set_fontsize(8)
 ax3.set_title("Leave Distribution by Type", color=TEXT, fontsize=11, fontweight="bold", pad=10)
 
-# Chart 4: Performance by Department
 ax4 = fig.add_subplot(gs[1, 0])
 perf_sorted = perf_dept.sort_values("avg_score")
 bars4 = ax4.barh(perf_sorted.index, perf_sorted["avg_score"],
@@ -220,7 +191,6 @@ ax4.set_xlabel("Score (out of 5.0)")
 ax4.set_xlim(0, 5.5)
 ax4.legend(facecolor=BG, labelcolor=TEXT, fontsize=8)
 
-# Chart 5: Attrition by Job Level
 ax5 = fig.add_subplot(gs[1, 1])
 level_order = ["Junior", "Mid", "Senior", "Lead", "Manager"]
 attrition_level = df_emp.groupby("job_level")["is_active"].apply(
@@ -234,21 +204,20 @@ for bar, val in zip(bars5, attrition_level.values):
 style_ax(ax5, "Attrition Rate by Job Level")
 ax5.set_ylabel("Attrition %")
 
-# Chart 6: KPI Summary Box
 ax6 = fig.add_subplot(gs[1, 2])
 ax6.set_facecolor(BG)
 ax6.axis("off")
 ax6.set_title("Key Efficiency Metrics", color=TEXT, fontsize=11, fontweight="bold", pad=10)
 
 kpis = [
-    ("Total Employees",       f"{len(df_emp)}"),
-    ("Active Employees",      f"{int(df_emp['is_active'].sum())}"),
-    ("Overall Attrition",     f"{round((1-df_emp['is_active'].mean())*100,1)}%"),
-    ("Avg Onboarding Time",   f"{round(total_onboard_days,1)} days"),
-    ("Main Bottleneck",       worst_step),
-    ("Leave Approval Rate",   f"{round(df_leave['approved'].mean()*100,1)}%"),
-    ("Avg Performance",       f"{round(df_reviews['score'].mean(),2)} / 5.0"),
-    ("High Performers",       f"{len(high_perf)} ({round(len(high_perf)/len(df_emp)*100,1)}%)"),
+    ("Total Employees",     f"{len(df_emp)}"),
+    ("Active Employees",    f"{int(df_emp['is_active'].sum())}"),
+    ("Overall Attrition",   f"{round((1-df_emp['is_active'].mean())*100,1)}%"),
+    ("Avg Onboarding Time", f"{round(total_onboard_days,1)} days"),
+    ("Main Bottleneck",     worst_step),
+    ("Leave Approval Rate", f"{round(df_leave['approved'].mean()*100,1)}%"),
+    ("Avg Performance",     f"{round(df_reviews['score'].mean(),2)} / 5.0"),
+    ("High Performers",     f"{len(high_perf)} ({round(len(high_perf)/len(df_emp)*100,1)}%)"),
 ]
 
 for i, (label, value) in enumerate(kpis):
@@ -264,7 +233,4 @@ for i, (label, value) in enumerate(kpis):
 plt.savefig("output/hr_analytics_dashboard.png", dpi=150, bbox_inches="tight",
             facecolor="#0f1117")
 plt.close()
-print("✅ Dashboard saved: output/hr_analytics_dashboard.png")
-print("\n" + "=" * 60)
-print("  PROJECT COMPLETE — ready to present!")
-print("=" * 60)
+print("Dashboard saved.")
