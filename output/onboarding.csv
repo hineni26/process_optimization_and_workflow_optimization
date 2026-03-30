@@ -1,0 +1,1501 @@
+employee_id,department,step,step_start,step_end,days_taken,status
+EMP0001,Marketing,Document Submission,2025-01-29,2025-02-01,3,Completed
+EMP0001,Marketing,IT Setup,2025-02-01,2025-02-06,5,Completed
+EMP0001,Marketing,Training,2025-02-06,2025-02-09,3,Completed
+EMP0001,Marketing,Manager Briefing,2025-02-09,2025-02-10,1,Completed
+EMP0001,Marketing,System Access,2025-02-10,2025-02-18,8,Completed
+EMP0002,Operations,Document Submission,2023-01-31,2023-02-04,4,Completed
+EMP0002,Operations,IT Setup,2023-02-04,2023-02-19,15,Completed
+EMP0002,Operations,Training,2023-02-19,2023-02-22,3,Completed
+EMP0002,Operations,Manager Briefing,2023-02-22,2023-02-26,4,Completed
+EMP0002,Operations,System Access,2023-02-26,2023-03-04,6,Completed
+EMP0003,Marketing,Document Submission,2024-07-12,2024-07-14,2,Completed
+EMP0003,Marketing,IT Setup,2024-07-14,2024-07-27,13,Completed
+EMP0003,Marketing,Training,2024-07-27,2024-07-30,3,Completed
+EMP0003,Marketing,Manager Briefing,2024-07-30,2024-08-02,3,Completed
+EMP0003,Marketing,System Access,2024-08-02,2024-08-07,5,Completed
+EMP0004,Engineering,Document Submission,2023-06-13,2023-06-14,1,Completed
+EMP0004,Engineering,IT Setup,2023-06-14,2023-06-28,14,Completed
+EMP0004,Engineering,Training,2023-06-28,2023-06-30,2,Completed
+EMP0004,Engineering,Manager Briefing,2023-06-30,2023-07-02,2,Completed
+EMP0004,Engineering,System Access,2023-07-02,2023-07-05,3,Completed
+EMP0005,Sales,Document Submission,2023-12-11,2023-12-13,2,Completed
+EMP0005,Sales,IT Setup,2023-12-13,2023-12-28,15,Completed
+EMP0005,Sales,Training,2023-12-28,2023-12-30,2,Completed
+EMP0005,Sales,Manager Briefing,2023-12-30,2023-12-31,1,Completed
+EMP0005,Sales,System Access,2023-12-31,2024-01-04,4,Completed
+EMP0006,Engineering,Document Submission,2024-07-03,2024-07-07,4,Completed
+EMP0006,Engineering,IT Setup,2024-07-07,2024-07-17,10,Completed
+EMP0006,Engineering,Training,2024-07-17,2024-07-21,4,Completed
+EMP0006,Engineering,Manager Briefing,2024-07-21,2024-07-22,1,Completed
+EMP0006,Engineering,System Access,2024-07-22,2024-07-27,5,Completed
+EMP0007,Operations,Document Submission,2023-03-13,2023-03-14,1,Completed
+EMP0007,Operations,IT Setup,2023-03-14,2023-03-27,13,Completed
+EMP0007,Operations,Training,2023-03-27,2023-03-29,2,Completed
+EMP0007,Operations,Manager Briefing,2023-03-29,2023-04-02,4,Completed
+EMP0007,Operations,System Access,2023-04-02,2023-04-12,10,Completed
+EMP0008,Engineering,Document Submission,2024-04-09,2024-04-13,4,Completed
+EMP0008,Engineering,IT Setup,2024-04-13,2024-04-28,15,Completed
+EMP0008,Engineering,Training,2024-04-28,2024-04-30,2,Completed
+EMP0008,Engineering,Manager Briefing,2024-04-30,2024-05-03,3,Completed
+EMP0008,Engineering,System Access,2024-05-03,2024-05-11,8,Completed
+EMP0009,HR,Document Submission,2023-10-01,2023-10-04,3,Completed
+EMP0009,HR,IT Setup,2023-10-04,2023-10-19,15,Completed
+EMP0009,HR,Training,2023-10-19,2023-10-20,1,Completed
+EMP0009,HR,Manager Briefing,2023-10-20,2023-10-21,1,Completed
+EMP0009,HR,System Access,2023-10-21,2023-10-27,6,Completed
+EMP0010,Operations,Document Submission,2023-06-17,2023-06-18,1,Completed
+EMP0010,Operations,IT Setup,2023-06-18,2023-06-25,7,Completed
+EMP0010,Operations,Training,2023-06-25,2023-06-29,4,Completed
+EMP0010,Operations,Manager Briefing,2023-06-29,2023-07-01,2,Completed
+EMP0010,Operations,System Access,2023-07-01,2023-07-04,3,Completed
+EMP0011,Marketing,Document Submission,2025-02-25,2025-03-01,4,Completed
+EMP0011,Marketing,IT Setup,2025-03-01,2025-03-13,12,Completed
+EMP0011,Marketing,Training,2025-03-13,2025-03-15,2,Completed
+EMP0011,Marketing,Manager Briefing,2025-03-15,2025-03-18,3,Completed
+EMP0011,Marketing,System Access,2025-03-18,2025-03-21,3,Completed
+EMP0012,Finance,Document Submission,2023-08-05,2023-08-06,1,Completed
+EMP0012,Finance,IT Setup,2023-08-06,2023-08-15,9,Completed
+EMP0012,Finance,Training,2023-08-15,2023-08-16,1,Completed
+EMP0012,Finance,Manager Briefing,2023-08-16,2023-08-19,3,Completed
+EMP0012,Finance,System Access,2023-08-19,2023-08-26,7,Completed
+EMP0013,Sales,Document Submission,2024-02-10,2024-02-14,4,Completed
+EMP0013,Sales,IT Setup,2024-02-14,2024-02-29,15,Completed
+EMP0013,Sales,Training,2024-02-29,2024-03-04,4,Completed
+EMP0013,Sales,Manager Briefing,2024-03-04,2024-03-06,2,Completed
+EMP0013,Sales,System Access,2024-03-06,2024-03-16,10,Completed
+EMP0014,Sales,Document Submission,2024-07-28,2024-07-31,3,Completed
+EMP0014,Sales,IT Setup,2024-07-31,2024-08-08,8,Completed
+EMP0014,Sales,Training,2024-08-08,2024-08-09,1,Completed
+EMP0014,Sales,Manager Briefing,2024-08-09,2024-08-12,3,Completed
+EMP0014,Sales,System Access,2024-08-12,2024-08-17,5,Completed
+EMP0015,HR,Document Submission,2023-05-22,2023-05-26,4,Completed
+EMP0015,HR,IT Setup,2023-05-26,2023-06-10,15,Completed
+EMP0015,HR,Training,2023-06-10,2023-06-13,3,Completed
+EMP0015,HR,Manager Briefing,2023-06-13,2023-06-15,2,Completed
+EMP0015,HR,System Access,2023-06-15,2023-06-18,3,Completed
+EMP0016,Engineering,Document Submission,2023-06-13,2023-06-16,3,Completed
+EMP0016,Engineering,IT Setup,2023-06-16,2023-06-25,9,Completed
+EMP0016,Engineering,Training,2023-06-25,2023-06-27,2,Completed
+EMP0016,Engineering,Manager Briefing,2023-06-27,2023-06-29,2,Completed
+EMP0016,Engineering,System Access,2023-06-29,2023-07-08,9,Completed
+EMP0017,Finance,Document Submission,2024-04-24,2024-04-28,4,Completed
+EMP0017,Finance,IT Setup,2024-04-28,2024-05-11,13,Completed
+EMP0017,Finance,Training,2024-05-11,2024-05-14,3,Completed
+EMP0017,Finance,Manager Briefing,2024-05-14,2024-05-15,1,Completed
+EMP0017,Finance,System Access,2024-05-15,2024-05-24,9,Completed
+EMP0018,Marketing,Document Submission,2025-02-07,2025-02-08,1,Completed
+EMP0018,Marketing,IT Setup,2025-02-08,2025-02-15,7,Completed
+EMP0018,Marketing,Training,2025-02-15,2025-02-17,2,Completed
+EMP0018,Marketing,Manager Briefing,2025-02-17,2025-02-21,4,Completed
+EMP0018,Marketing,System Access,2025-02-21,2025-03-01,8,Completed
+EMP0019,Finance,Document Submission,2023-01-04,2023-01-06,2,Completed
+EMP0019,Finance,IT Setup,2023-01-06,2023-01-11,5,Completed
+EMP0019,Finance,Training,2023-01-11,2023-01-14,3,Completed
+EMP0019,Finance,Manager Briefing,2023-01-14,2023-01-18,4,Completed
+EMP0019,Finance,System Access,2023-01-18,2023-01-24,6,Completed
+EMP0020,Operations,Document Submission,2025-06-10,2025-06-14,4,Completed
+EMP0020,Operations,IT Setup,2025-06-14,2025-06-23,9,Completed
+EMP0020,Operations,Training,2025-06-23,2025-06-26,3,Completed
+EMP0020,Operations,Manager Briefing,2025-06-26,2025-06-29,3,Completed
+EMP0020,Operations,System Access,2025-06-29,2025-07-02,3,Completed
+EMP0021,Sales,Document Submission,2023-06-15,2023-06-18,3,Completed
+EMP0021,Sales,IT Setup,2023-06-18,2023-07-03,15,Completed
+EMP0021,Sales,Training,2023-07-03,2023-07-06,3,Completed
+EMP0021,Sales,Manager Briefing,2023-07-06,2023-07-08,2,Completed
+EMP0021,Sales,System Access,2023-07-08,2023-07-11,3,Completed
+EMP0022,Finance,Document Submission,2025-08-09,2025-08-10,1,Completed
+EMP0022,Finance,IT Setup,2025-08-10,2025-08-22,12,Completed
+EMP0022,Finance,Training,2025-08-22,2025-08-25,3,Completed
+EMP0022,Finance,Manager Briefing,2025-08-25,2025-08-27,2,Completed
+EMP0022,Finance,System Access,2025-08-27,2025-09-05,9,Completed
+EMP0023,Sales,Document Submission,2025-08-27,2025-08-30,3,Completed
+EMP0023,Sales,IT Setup,2025-08-30,2025-09-05,6,Completed
+EMP0023,Sales,Training,2025-09-05,2025-09-08,3,Completed
+EMP0023,Sales,Manager Briefing,2025-09-08,2025-09-11,3,Completed
+EMP0023,Sales,System Access,2025-09-11,2025-09-17,6,Completed
+EMP0024,Sales,Document Submission,2025-08-27,2025-08-29,2,Completed
+EMP0024,Sales,IT Setup,2025-08-29,2025-09-05,7,Completed
+EMP0024,Sales,Training,2025-09-05,2025-09-09,4,Completed
+EMP0024,Sales,Manager Briefing,2025-09-09,2025-09-11,2,Completed
+EMP0024,Sales,System Access,2025-09-11,2025-09-21,10,Completed
+EMP0025,Sales,Document Submission,2025-02-12,2025-02-15,3,Completed
+EMP0025,Sales,IT Setup,2025-02-15,2025-02-26,11,Completed
+EMP0025,Sales,Training,2025-02-26,2025-03-02,4,Completed
+EMP0025,Sales,Manager Briefing,2025-03-02,2025-03-04,2,Completed
+EMP0025,Sales,System Access,2025-03-04,2025-03-10,6,Completed
+EMP0026,Finance,Document Submission,2024-10-27,2024-10-28,1,Completed
+EMP0026,Finance,IT Setup,2024-10-28,2024-11-10,13,Completed
+EMP0026,Finance,Training,2024-11-10,2024-11-14,4,Completed
+EMP0026,Finance,Manager Briefing,2024-11-14,2024-11-17,3,Completed
+EMP0026,Finance,System Access,2024-11-17,2024-11-21,4,Completed
+EMP0027,Sales,Document Submission,2023-12-13,2023-12-14,1,Completed
+EMP0027,Sales,IT Setup,2023-12-14,2023-12-19,5,Completed
+EMP0027,Sales,Training,2023-12-19,2023-12-21,2,Completed
+EMP0027,Sales,Manager Briefing,2023-12-21,2023-12-23,2,Completed
+EMP0027,Sales,System Access,2023-12-23,2023-12-28,5,Completed
+EMP0028,Engineering,Document Submission,2023-03-02,2023-03-05,3,Completed
+EMP0028,Engineering,IT Setup,2023-03-05,2023-03-18,13,Completed
+EMP0028,Engineering,Training,2023-03-18,2023-03-22,4,Completed
+EMP0028,Engineering,Manager Briefing,2023-03-22,2023-03-23,1,Completed
+EMP0028,Engineering,System Access,2023-03-23,2023-03-29,6,Completed
+EMP0029,Operations,Document Submission,2024-11-16,2024-11-20,4,Completed
+EMP0029,Operations,IT Setup,2024-11-20,2024-11-26,6,Completed
+EMP0029,Operations,Training,2024-11-26,2024-11-30,4,Completed
+EMP0029,Operations,Manager Briefing,2024-11-30,2024-12-01,1,Completed
+EMP0029,Operations,System Access,2024-12-01,2024-12-11,10,Completed
+EMP0030,Sales,Document Submission,2025-04-06,2025-04-08,2,Completed
+EMP0030,Sales,IT Setup,2025-04-08,2025-04-21,13,Completed
+EMP0030,Sales,Training,2025-04-21,2025-04-25,4,Completed
+EMP0030,Sales,Manager Briefing,2025-04-25,2025-04-29,4,Completed
+EMP0030,Sales,System Access,2025-04-29,2025-05-02,3,Completed
+EMP0031,HR,Document Submission,2024-04-23,2024-04-27,4,Completed
+EMP0031,HR,IT Setup,2024-04-27,2024-05-12,15,Completed
+EMP0031,HR,Training,2024-05-12,2024-05-15,3,Completed
+EMP0031,HR,Manager Briefing,2024-05-15,2024-05-16,1,Completed
+EMP0031,HR,System Access,2024-05-16,2024-05-25,9,Completed
+EMP0032,Engineering,Document Submission,2023-12-14,2023-12-17,3,Completed
+EMP0032,Engineering,IT Setup,2023-12-17,2023-12-22,5,Completed
+EMP0032,Engineering,Training,2023-12-22,2023-12-24,2,Completed
+EMP0032,Engineering,Manager Briefing,2023-12-24,2023-12-25,1,Completed
+EMP0032,Engineering,System Access,2023-12-25,2023-12-28,3,Completed
+EMP0033,Sales,Document Submission,2023-05-24,2023-05-28,4,Completed
+EMP0033,Sales,IT Setup,2023-05-28,2023-06-07,10,Completed
+EMP0033,Sales,Training,2023-06-07,2023-06-08,1,Completed
+EMP0033,Sales,Manager Briefing,2023-06-08,2023-06-09,1,Completed
+EMP0033,Sales,System Access,2023-06-09,2023-06-13,4,Completed
+EMP0034,Engineering,Document Submission,2025-06-01,2025-06-05,4,Completed
+EMP0034,Engineering,IT Setup,2025-06-05,2025-06-10,5,Completed
+EMP0034,Engineering,Training,2025-06-10,2025-06-13,3,Completed
+EMP0034,Engineering,Manager Briefing,2025-06-13,2025-06-17,4,Completed
+EMP0034,Engineering,System Access,2025-06-17,2025-06-22,5,Completed
+EMP0035,Engineering,Document Submission,2025-05-19,2025-05-21,2,Completed
+EMP0035,Engineering,IT Setup,2025-05-21,2025-06-05,15,Completed
+EMP0035,Engineering,Training,2025-06-05,2025-06-09,4,Completed
+EMP0035,Engineering,Manager Briefing,2025-06-09,2025-06-12,3,Completed
+EMP0035,Engineering,System Access,2025-06-12,2025-06-21,9,Completed
+EMP0036,Sales,Document Submission,2025-07-13,2025-07-17,4,Completed
+EMP0036,Sales,IT Setup,2025-07-17,2025-07-28,11,Completed
+EMP0036,Sales,Training,2025-07-28,2025-08-01,4,Completed
+EMP0036,Sales,Manager Briefing,2025-08-01,2025-08-02,1,Completed
+EMP0036,Sales,System Access,2025-08-02,2025-08-07,5,Completed
+EMP0037,HR,Document Submission,2025-01-18,2025-01-21,3,Completed
+EMP0037,HR,IT Setup,2025-01-21,2025-01-27,6,Completed
+EMP0037,HR,Training,2025-01-27,2025-01-29,2,Completed
+EMP0037,HR,Manager Briefing,2025-01-29,2025-02-02,4,Completed
+EMP0037,HR,System Access,2025-02-02,2025-02-07,5,Completed
+EMP0038,Sales,Document Submission,2023-08-11,2023-08-13,2,Completed
+EMP0038,Sales,IT Setup,2023-08-13,2023-08-18,5,Completed
+EMP0038,Sales,Training,2023-08-18,2023-08-19,1,Completed
+EMP0038,Sales,Manager Briefing,2023-08-19,2023-08-22,3,Completed
+EMP0038,Sales,System Access,2023-08-22,2023-09-01,10,Completed
+EMP0039,Marketing,Document Submission,2023-02-21,2023-02-25,4,Completed
+EMP0039,Marketing,IT Setup,2023-02-25,2023-03-10,13,Completed
+EMP0039,Marketing,Training,2023-03-10,2023-03-14,4,Completed
+EMP0039,Marketing,Manager Briefing,2023-03-14,2023-03-16,2,Completed
+EMP0039,Marketing,System Access,2023-03-16,2023-03-22,6,Completed
+EMP0040,Engineering,Document Submission,2023-03-24,2023-03-28,4,Completed
+EMP0040,Engineering,IT Setup,2023-03-28,2023-04-07,10,Completed
+EMP0040,Engineering,Training,2023-04-07,2023-04-09,2,Completed
+EMP0040,Engineering,Manager Briefing,2023-04-09,2023-04-12,3,Completed
+EMP0040,Engineering,System Access,2023-04-12,2023-04-18,6,Completed
+EMP0041,Marketing,Document Submission,2024-02-18,2024-02-19,1,Completed
+EMP0041,Marketing,IT Setup,2024-02-19,2024-02-24,5,Completed
+EMP0041,Marketing,Training,2024-02-24,2024-02-28,4,Completed
+EMP0041,Marketing,Manager Briefing,2024-02-28,2024-02-29,1,Completed
+EMP0041,Marketing,System Access,2024-02-29,2024-03-06,6,Completed
+EMP0042,Operations,Document Submission,2024-11-04,2024-11-06,2,Completed
+EMP0042,Operations,IT Setup,2024-11-06,2024-11-12,6,Completed
+EMP0042,Operations,Training,2024-11-12,2024-11-13,1,Completed
+EMP0042,Operations,Manager Briefing,2024-11-13,2024-11-14,1,Completed
+EMP0042,Operations,System Access,2024-11-14,2024-11-24,10,Completed
+EMP0043,Sales,Document Submission,2023-11-18,2023-11-19,1,Completed
+EMP0043,Sales,IT Setup,2023-11-19,2023-11-27,8,Completed
+EMP0043,Sales,Training,2023-11-27,2023-11-28,1,Completed
+EMP0043,Sales,Manager Briefing,2023-11-28,2023-12-02,4,Completed
+EMP0043,Sales,System Access,2023-12-02,2023-12-12,10,Completed
+EMP0044,Engineering,Document Submission,2024-09-28,2024-09-30,2,Completed
+EMP0044,Engineering,IT Setup,2024-09-30,2024-10-13,13,Completed
+EMP0044,Engineering,Training,2024-10-13,2024-10-15,2,Completed
+EMP0044,Engineering,Manager Briefing,2024-10-15,2024-10-16,1,Completed
+EMP0044,Engineering,System Access,2024-10-16,2024-10-21,5,Completed
+EMP0045,Operations,Document Submission,2025-08-13,2025-08-16,3,Completed
+EMP0045,Operations,IT Setup,2025-08-16,2025-08-24,8,Completed
+EMP0045,Operations,Training,2025-08-24,2025-08-27,3,Completed
+EMP0045,Operations,Manager Briefing,2025-08-27,2025-08-30,3,Completed
+EMP0045,Operations,System Access,2025-08-30,2025-09-05,6,Completed
+EMP0046,HR,Document Submission,2025-05-03,2025-05-06,3,Completed
+EMP0046,HR,IT Setup,2025-05-06,2025-05-13,7,Completed
+EMP0046,HR,Training,2025-05-13,2025-05-15,2,Completed
+EMP0046,HR,Manager Briefing,2025-05-15,2025-05-19,4,Completed
+EMP0046,HR,System Access,2025-05-19,2025-05-26,7,Completed
+EMP0047,Marketing,Document Submission,2023-11-03,2023-11-06,3,Completed
+EMP0047,Marketing,IT Setup,2023-11-06,2023-11-11,5,Completed
+EMP0047,Marketing,Training,2023-11-11,2023-11-13,2,Completed
+EMP0047,Marketing,Manager Briefing,2023-11-13,2023-11-17,4,Completed
+EMP0047,Marketing,System Access,2023-11-17,2023-11-27,10,Completed
+EMP0048,Engineering,Document Submission,2025-01-30,2025-01-31,1,Completed
+EMP0048,Engineering,IT Setup,2025-01-31,2025-02-10,10,Completed
+EMP0048,Engineering,Training,2025-02-10,2025-02-14,4,Completed
+EMP0048,Engineering,Manager Briefing,2025-02-14,2025-02-17,3,Completed
+EMP0048,Engineering,System Access,2025-02-17,2025-02-26,9,Completed
+EMP0049,Marketing,Document Submission,2024-12-04,2024-12-08,4,Completed
+EMP0049,Marketing,IT Setup,2024-12-08,2024-12-15,7,Completed
+EMP0049,Marketing,Training,2024-12-15,2024-12-18,3,Completed
+EMP0049,Marketing,Manager Briefing,2024-12-18,2024-12-22,4,Completed
+EMP0049,Marketing,System Access,2024-12-22,2024-12-27,5,Completed
+EMP0050,HR,Document Submission,2025-05-16,2025-05-20,4,Completed
+EMP0050,HR,IT Setup,2025-05-20,2025-05-28,8,Completed
+EMP0050,HR,Training,2025-05-28,2025-05-30,2,Completed
+EMP0050,HR,Manager Briefing,2025-05-30,2025-06-02,3,Completed
+EMP0050,HR,System Access,2025-06-02,2025-06-07,5,Completed
+EMP0051,HR,Document Submission,2024-10-14,2024-10-18,4,Completed
+EMP0051,HR,IT Setup,2024-10-18,2024-10-23,5,Completed
+EMP0051,HR,Training,2024-10-23,2024-10-27,4,Completed
+EMP0051,HR,Manager Briefing,2024-10-27,2024-10-31,4,Completed
+EMP0051,HR,System Access,2024-10-31,2024-11-05,5,Completed
+EMP0052,Operations,Document Submission,2024-07-28,2024-08-01,4,Completed
+EMP0052,Operations,IT Setup,2024-08-01,2024-08-09,8,Completed
+EMP0052,Operations,Training,2024-08-09,2024-08-12,3,Completed
+EMP0052,Operations,Manager Briefing,2024-08-12,2024-08-14,2,Completed
+EMP0052,Operations,System Access,2024-08-14,2024-08-22,8,Completed
+EMP0053,HR,Document Submission,2023-06-01,2023-06-02,1,Completed
+EMP0053,HR,IT Setup,2023-06-02,2023-06-14,12,Completed
+EMP0053,HR,Training,2023-06-14,2023-06-17,3,Completed
+EMP0053,HR,Manager Briefing,2023-06-17,2023-06-18,1,Completed
+EMP0053,HR,System Access,2023-06-18,2023-06-24,6,Completed
+EMP0054,Engineering,Document Submission,2023-08-04,2023-08-05,1,Completed
+EMP0054,Engineering,IT Setup,2023-08-05,2023-08-14,9,Completed
+EMP0054,Engineering,Training,2023-08-14,2023-08-18,4,Completed
+EMP0054,Engineering,Manager Briefing,2023-08-18,2023-08-19,1,Completed
+EMP0054,Engineering,System Access,2023-08-19,2023-08-23,4,Completed
+EMP0055,Operations,Document Submission,2025-08-05,2025-08-07,2,Completed
+EMP0055,Operations,IT Setup,2025-08-07,2025-08-21,14,Completed
+EMP0055,Operations,Training,2025-08-21,2025-08-23,2,Completed
+EMP0055,Operations,Manager Briefing,2025-08-23,2025-08-27,4,Completed
+EMP0055,Operations,System Access,2025-08-27,2025-09-02,6,Completed
+EMP0056,Engineering,Document Submission,2025-08-04,2025-08-07,3,Completed
+EMP0056,Engineering,IT Setup,2025-08-07,2025-08-16,9,Completed
+EMP0056,Engineering,Training,2025-08-16,2025-08-17,1,Completed
+EMP0056,Engineering,Manager Briefing,2025-08-17,2025-08-19,2,Completed
+EMP0056,Engineering,System Access,2025-08-19,2025-08-25,6,Completed
+EMP0057,HR,Document Submission,2024-12-19,2024-12-20,1,Completed
+EMP0057,HR,IT Setup,2024-12-20,2025-01-01,12,Completed
+EMP0057,HR,Training,2025-01-01,2025-01-03,2,Completed
+EMP0057,HR,Manager Briefing,2025-01-03,2025-01-05,2,Completed
+EMP0057,HR,System Access,2025-01-05,2025-01-14,9,Completed
+EMP0058,Finance,Document Submission,2025-04-20,2025-04-22,2,Completed
+EMP0058,Finance,IT Setup,2025-04-22,2025-05-05,13,Completed
+EMP0058,Finance,Training,2025-05-05,2025-05-08,3,Completed
+EMP0058,Finance,Manager Briefing,2025-05-08,2025-05-11,3,Completed
+EMP0058,Finance,System Access,2025-05-11,2025-05-20,9,Completed
+EMP0059,Marketing,Document Submission,2023-12-03,2023-12-07,4,Completed
+EMP0059,Marketing,IT Setup,2023-12-07,2023-12-20,13,Completed
+EMP0059,Marketing,Training,2023-12-20,2023-12-23,3,Completed
+EMP0059,Marketing,Manager Briefing,2023-12-23,2023-12-26,3,Completed
+EMP0059,Marketing,System Access,2023-12-26,2024-01-02,7,Completed
+EMP0060,Marketing,Document Submission,2024-07-03,2024-07-06,3,Completed
+EMP0060,Marketing,IT Setup,2024-07-06,2024-07-19,13,Completed
+EMP0060,Marketing,Training,2024-07-19,2024-07-23,4,Completed
+EMP0060,Marketing,Manager Briefing,2024-07-23,2024-07-27,4,Completed
+EMP0060,Marketing,System Access,2024-07-27,2024-07-31,4,Completed
+EMP0061,Sales,Document Submission,2023-09-29,2023-10-03,4,Completed
+EMP0061,Sales,IT Setup,2023-10-03,2023-10-13,10,Completed
+EMP0061,Sales,Training,2023-10-13,2023-10-15,2,Completed
+EMP0061,Sales,Manager Briefing,2023-10-15,2023-10-18,3,Completed
+EMP0061,Sales,System Access,2023-10-18,2023-10-26,8,Completed
+EMP0062,Finance,Document Submission,2024-06-07,2024-06-11,4,Completed
+EMP0062,Finance,IT Setup,2024-06-11,2024-06-16,5,Completed
+EMP0062,Finance,Training,2024-06-16,2024-06-18,2,Completed
+EMP0062,Finance,Manager Briefing,2024-06-18,2024-06-20,2,Completed
+EMP0062,Finance,System Access,2024-06-20,2024-06-23,3,Completed
+EMP0063,Engineering,Document Submission,2025-04-05,2025-04-08,3,Completed
+EMP0063,Engineering,IT Setup,2025-04-08,2025-04-21,13,Completed
+EMP0063,Engineering,Training,2025-04-21,2025-04-25,4,Completed
+EMP0063,Engineering,Manager Briefing,2025-04-25,2025-04-28,3,Completed
+EMP0063,Engineering,System Access,2025-04-28,2025-05-03,5,Completed
+EMP0064,Engineering,Document Submission,2025-07-31,2025-08-02,2,Completed
+EMP0064,Engineering,IT Setup,2025-08-02,2025-08-12,10,Completed
+EMP0064,Engineering,Training,2025-08-12,2025-08-14,2,Completed
+EMP0064,Engineering,Manager Briefing,2025-08-14,2025-08-18,4,Completed
+EMP0064,Engineering,System Access,2025-08-18,2025-08-24,6,Completed
+EMP0065,Marketing,Document Submission,2024-06-03,2024-06-07,4,Completed
+EMP0065,Marketing,IT Setup,2024-06-07,2024-06-20,13,Completed
+EMP0065,Marketing,Training,2024-06-20,2024-06-23,3,Completed
+EMP0065,Marketing,Manager Briefing,2024-06-23,2024-06-26,3,Completed
+EMP0065,Marketing,System Access,2024-06-26,2024-07-06,10,Completed
+EMP0066,Marketing,Document Submission,2023-05-11,2023-05-15,4,Completed
+EMP0066,Marketing,IT Setup,2023-05-15,2023-05-27,12,Completed
+EMP0066,Marketing,Training,2023-05-27,2023-05-29,2,Completed
+EMP0066,Marketing,Manager Briefing,2023-05-29,2023-06-01,3,Completed
+EMP0066,Marketing,System Access,2023-06-01,2023-06-06,5,Completed
+EMP0067,Operations,Document Submission,2024-02-20,2024-02-22,2,Completed
+EMP0067,Operations,IT Setup,2024-02-22,2024-03-06,13,Completed
+EMP0067,Operations,Training,2024-03-06,2024-03-10,4,Completed
+EMP0067,Operations,Manager Briefing,2024-03-10,2024-03-12,2,Completed
+EMP0067,Operations,System Access,2024-03-12,2024-03-15,3,Completed
+EMP0068,Sales,Document Submission,2024-08-16,2024-08-17,1,Completed
+EMP0068,Sales,IT Setup,2024-08-17,2024-08-23,6,Completed
+EMP0068,Sales,Training,2024-08-23,2024-08-24,1,Completed
+EMP0068,Sales,Manager Briefing,2024-08-24,2024-08-25,1,Completed
+EMP0068,Sales,System Access,2024-08-25,2024-09-03,9,Completed
+EMP0069,Finance,Document Submission,2024-06-07,2024-06-09,2,Completed
+EMP0069,Finance,IT Setup,2024-06-09,2024-06-24,15,Completed
+EMP0069,Finance,Training,2024-06-24,2024-06-26,2,Completed
+EMP0069,Finance,Manager Briefing,2024-06-26,2024-06-27,1,Completed
+EMP0069,Finance,System Access,2024-06-27,2024-07-02,5,Completed
+EMP0070,HR,Document Submission,2024-10-10,2024-10-11,1,Completed
+EMP0070,HR,IT Setup,2024-10-11,2024-10-19,8,Completed
+EMP0070,HR,Training,2024-10-19,2024-10-23,4,Completed
+EMP0070,HR,Manager Briefing,2024-10-23,2024-10-26,3,Completed
+EMP0070,HR,System Access,2024-10-26,2024-10-29,3,Completed
+EMP0071,Marketing,Document Submission,2025-04-05,2025-04-09,4,Completed
+EMP0071,Marketing,IT Setup,2025-04-09,2025-04-24,15,Completed
+EMP0071,Marketing,Training,2025-04-24,2025-04-28,4,Completed
+EMP0071,Marketing,Manager Briefing,2025-04-28,2025-04-29,1,Completed
+EMP0071,Marketing,System Access,2025-04-29,2025-05-02,3,Completed
+EMP0072,Finance,Document Submission,2025-02-25,2025-03-01,4,Completed
+EMP0072,Finance,IT Setup,2025-03-01,2025-03-06,5,Completed
+EMP0072,Finance,Training,2025-03-06,2025-03-07,1,Completed
+EMP0072,Finance,Manager Briefing,2025-03-07,2025-03-10,3,Completed
+EMP0072,Finance,System Access,2025-03-10,2025-03-17,7,Completed
+EMP0073,Finance,Document Submission,2023-06-01,2023-06-02,1,Completed
+EMP0073,Finance,IT Setup,2023-06-02,2023-06-15,13,Completed
+EMP0073,Finance,Training,2023-06-15,2023-06-19,4,Completed
+EMP0073,Finance,Manager Briefing,2023-06-19,2023-06-21,2,Completed
+EMP0073,Finance,System Access,2023-06-21,2023-06-25,4,Completed
+EMP0074,Finance,Document Submission,2025-04-03,2025-04-04,1,Completed
+EMP0074,Finance,IT Setup,2025-04-04,2025-04-17,13,Completed
+EMP0074,Finance,Training,2025-04-17,2025-04-19,2,Completed
+EMP0074,Finance,Manager Briefing,2025-04-19,2025-04-21,2,Completed
+EMP0074,Finance,System Access,2025-04-21,2025-04-27,6,Completed
+EMP0075,Operations,Document Submission,2025-05-18,2025-05-21,3,Completed
+EMP0075,Operations,IT Setup,2025-05-21,2025-05-31,10,Completed
+EMP0075,Operations,Training,2025-05-31,2025-06-03,3,Completed
+EMP0075,Operations,Manager Briefing,2025-06-03,2025-06-07,4,Completed
+EMP0075,Operations,System Access,2025-06-07,2025-06-11,4,Completed
+EMP0076,Finance,Document Submission,2025-01-06,2025-01-09,3,Completed
+EMP0076,Finance,IT Setup,2025-01-09,2025-01-20,11,Completed
+EMP0076,Finance,Training,2025-01-20,2025-01-24,4,Completed
+EMP0076,Finance,Manager Briefing,2025-01-24,2025-01-26,2,Completed
+EMP0076,Finance,System Access,2025-01-26,2025-02-01,6,Completed
+EMP0077,Sales,Document Submission,2024-05-01,2024-05-04,3,Completed
+EMP0077,Sales,IT Setup,2024-05-04,2024-05-19,15,Completed
+EMP0077,Sales,Training,2024-05-19,2024-05-20,1,Completed
+EMP0077,Sales,Manager Briefing,2024-05-20,2024-05-21,1,Completed
+EMP0077,Sales,System Access,2024-05-21,2024-05-25,4,Completed
+EMP0078,Operations,Document Submission,2023-09-02,2023-09-06,4,Completed
+EMP0078,Operations,IT Setup,2023-09-06,2023-09-17,11,Completed
+EMP0078,Operations,Training,2023-09-17,2023-09-21,4,Completed
+EMP0078,Operations,Manager Briefing,2023-09-21,2023-09-25,4,Completed
+EMP0078,Operations,System Access,2023-09-25,2023-09-28,3,Completed
+EMP0079,Sales,Document Submission,2023-11-24,2023-11-25,1,Completed
+EMP0079,Sales,IT Setup,2023-11-25,2023-12-02,7,Completed
+EMP0079,Sales,Training,2023-12-02,2023-12-03,1,Completed
+EMP0079,Sales,Manager Briefing,2023-12-03,2023-12-07,4,Completed
+EMP0079,Sales,System Access,2023-12-07,2023-12-16,9,Completed
+EMP0080,Sales,Document Submission,2023-06-06,2023-06-09,3,Completed
+EMP0080,Sales,IT Setup,2023-06-09,2023-06-23,14,Completed
+EMP0080,Sales,Training,2023-06-23,2023-06-24,1,Completed
+EMP0080,Sales,Manager Briefing,2023-06-24,2023-06-25,1,Completed
+EMP0080,Sales,System Access,2023-06-25,2023-07-01,6,Completed
+EMP0081,HR,Document Submission,2024-03-01,2024-03-03,2,Completed
+EMP0081,HR,IT Setup,2024-03-03,2024-03-17,14,Completed
+EMP0081,HR,Training,2024-03-17,2024-03-21,4,Completed
+EMP0081,HR,Manager Briefing,2024-03-21,2024-03-24,3,Completed
+EMP0081,HR,System Access,2024-03-24,2024-03-27,3,Completed
+EMP0082,Operations,Document Submission,2023-01-07,2023-01-08,1,Completed
+EMP0082,Operations,IT Setup,2023-01-08,2023-01-23,15,Completed
+EMP0082,Operations,Training,2023-01-23,2023-01-26,3,Completed
+EMP0082,Operations,Manager Briefing,2023-01-26,2023-01-27,1,Completed
+EMP0082,Operations,System Access,2023-01-27,2023-02-01,5,Completed
+EMP0083,Finance,Document Submission,2025-01-22,2025-01-25,3,Completed
+EMP0083,Finance,IT Setup,2025-01-25,2025-01-30,5,Completed
+EMP0083,Finance,Training,2025-01-30,2025-02-01,2,Completed
+EMP0083,Finance,Manager Briefing,2025-02-01,2025-02-03,2,Completed
+EMP0083,Finance,System Access,2025-02-03,2025-02-12,9,Completed
+EMP0084,Sales,Document Submission,2024-05-12,2024-05-13,1,Completed
+EMP0084,Sales,IT Setup,2024-05-13,2024-05-22,9,Completed
+EMP0084,Sales,Training,2024-05-22,2024-05-24,2,Completed
+EMP0084,Sales,Manager Briefing,2024-05-24,2024-05-26,2,Completed
+EMP0084,Sales,System Access,2024-05-26,2024-06-04,9,Completed
+EMP0085,Finance,Document Submission,2024-09-29,2024-10-02,3,Completed
+EMP0085,Finance,IT Setup,2024-10-02,2024-10-13,11,Completed
+EMP0085,Finance,Training,2024-10-13,2024-10-15,2,Completed
+EMP0085,Finance,Manager Briefing,2024-10-15,2024-10-16,1,Completed
+EMP0085,Finance,System Access,2024-10-16,2024-10-24,8,Completed
+EMP0086,Engineering,Document Submission,2023-05-19,2023-05-20,1,Completed
+EMP0086,Engineering,IT Setup,2023-05-20,2023-05-26,6,Completed
+EMP0086,Engineering,Training,2023-05-26,2023-05-30,4,Completed
+EMP0086,Engineering,Manager Briefing,2023-05-30,2023-06-01,2,Completed
+EMP0086,Engineering,System Access,2023-06-01,2023-06-05,4,Completed
+EMP0087,Finance,Document Submission,2024-04-10,2024-04-13,3,Completed
+EMP0087,Finance,IT Setup,2024-04-13,2024-04-27,14,Completed
+EMP0087,Finance,Training,2024-04-27,2024-05-01,4,Completed
+EMP0087,Finance,Manager Briefing,2024-05-01,2024-05-04,3,Completed
+EMP0087,Finance,System Access,2024-05-04,2024-05-07,3,Completed
+EMP0088,HR,Document Submission,2024-04-26,2024-04-29,3,Completed
+EMP0088,HR,IT Setup,2024-04-29,2024-05-11,12,Completed
+EMP0088,HR,Training,2024-05-11,2024-05-15,4,Completed
+EMP0088,HR,Manager Briefing,2024-05-15,2024-05-17,2,Completed
+EMP0088,HR,System Access,2024-05-17,2024-05-25,8,Completed
+EMP0089,Marketing,Document Submission,2023-02-01,2023-02-05,4,Completed
+EMP0089,Marketing,IT Setup,2023-02-05,2023-02-16,11,Completed
+EMP0089,Marketing,Training,2023-02-16,2023-02-18,2,Completed
+EMP0089,Marketing,Manager Briefing,2023-02-18,2023-02-22,4,Completed
+EMP0089,Marketing,System Access,2023-02-22,2023-02-26,4,Completed
+EMP0090,Sales,Document Submission,2024-11-16,2024-11-19,3,Completed
+EMP0090,Sales,IT Setup,2024-11-19,2024-11-27,8,Completed
+EMP0090,Sales,Training,2024-11-27,2024-11-28,1,Completed
+EMP0090,Sales,Manager Briefing,2024-11-28,2024-11-29,1,Completed
+EMP0090,Sales,System Access,2024-11-29,2024-12-06,7,Completed
+EMP0091,Sales,Document Submission,2025-02-04,2025-02-06,2,Completed
+EMP0091,Sales,IT Setup,2025-02-06,2025-02-17,11,Completed
+EMP0091,Sales,Training,2025-02-17,2025-02-19,2,Completed
+EMP0091,Sales,Manager Briefing,2025-02-19,2025-02-23,4,Completed
+EMP0091,Sales,System Access,2025-02-23,2025-03-03,8,Completed
+EMP0092,Operations,Document Submission,2023-11-16,2023-11-19,3,Completed
+EMP0092,Operations,IT Setup,2023-11-19,2023-11-25,6,Completed
+EMP0092,Operations,Training,2023-11-25,2023-11-26,1,Completed
+EMP0092,Operations,Manager Briefing,2023-11-26,2023-11-27,1,Completed
+EMP0092,Operations,System Access,2023-11-27,2023-12-04,7,Completed
+EMP0093,Engineering,Document Submission,2025-04-30,2025-05-04,4,Completed
+EMP0093,Engineering,IT Setup,2025-05-04,2025-05-14,10,Completed
+EMP0093,Engineering,Training,2025-05-14,2025-05-17,3,Completed
+EMP0093,Engineering,Manager Briefing,2025-05-17,2025-05-18,1,Completed
+EMP0093,Engineering,System Access,2025-05-18,2025-05-23,5,Completed
+EMP0094,Marketing,Document Submission,2023-05-04,2023-05-05,1,Completed
+EMP0094,Marketing,IT Setup,2023-05-05,2023-05-12,7,Completed
+EMP0094,Marketing,Training,2023-05-12,2023-05-16,4,Completed
+EMP0094,Marketing,Manager Briefing,2023-05-16,2023-05-20,4,Completed
+EMP0094,Marketing,System Access,2023-05-20,2023-05-29,9,Completed
+EMP0095,Operations,Document Submission,2024-01-15,2024-01-16,1,Completed
+EMP0095,Operations,IT Setup,2024-01-16,2024-01-21,5,Completed
+EMP0095,Operations,Training,2024-01-21,2024-01-22,1,Completed
+EMP0095,Operations,Manager Briefing,2024-01-22,2024-01-25,3,Completed
+EMP0095,Operations,System Access,2024-01-25,2024-01-29,4,Completed
+EMP0096,Engineering,Document Submission,2024-01-06,2024-01-09,3,Completed
+EMP0096,Engineering,IT Setup,2024-01-09,2024-01-20,11,Completed
+EMP0096,Engineering,Training,2024-01-20,2024-01-21,1,Completed
+EMP0096,Engineering,Manager Briefing,2024-01-21,2024-01-24,3,Completed
+EMP0096,Engineering,System Access,2024-01-24,2024-02-02,9,Completed
+EMP0097,Finance,Document Submission,2024-06-18,2024-06-22,4,Completed
+EMP0097,Finance,IT Setup,2024-06-22,2024-06-28,6,Completed
+EMP0097,Finance,Training,2024-06-28,2024-06-30,2,Completed
+EMP0097,Finance,Manager Briefing,2024-06-30,2024-07-02,2,Completed
+EMP0097,Finance,System Access,2024-07-02,2024-07-11,9,Completed
+EMP0098,Finance,Document Submission,2025-01-18,2025-01-20,2,Completed
+EMP0098,Finance,IT Setup,2025-01-20,2025-01-27,7,Completed
+EMP0098,Finance,Training,2025-01-27,2025-01-30,3,Completed
+EMP0098,Finance,Manager Briefing,2025-01-30,2025-02-02,3,Completed
+EMP0098,Finance,System Access,2025-02-02,2025-02-09,7,Completed
+EMP0099,HR,Document Submission,2023-09-07,2023-09-11,4,Completed
+EMP0099,HR,IT Setup,2023-09-11,2023-09-18,7,Completed
+EMP0099,HR,Training,2023-09-18,2023-09-19,1,Completed
+EMP0099,HR,Manager Briefing,2023-09-19,2023-09-21,2,Completed
+EMP0099,HR,System Access,2023-09-21,2023-09-30,9,Completed
+EMP0100,HR,Document Submission,2025-05-21,2025-05-24,3,Completed
+EMP0100,HR,IT Setup,2025-05-24,2025-06-04,11,Completed
+EMP0100,HR,Training,2025-06-04,2025-06-07,3,Completed
+EMP0100,HR,Manager Briefing,2025-06-07,2025-06-11,4,Completed
+EMP0100,HR,System Access,2025-06-11,2025-06-15,4,Completed
+EMP0101,HR,Document Submission,2025-06-20,2025-06-23,3,Completed
+EMP0101,HR,IT Setup,2025-06-23,2025-07-02,9,Completed
+EMP0101,HR,Training,2025-07-02,2025-07-04,2,Completed
+EMP0101,HR,Manager Briefing,2025-07-04,2025-07-08,4,Completed
+EMP0101,HR,System Access,2025-07-08,2025-07-14,6,Completed
+EMP0102,Operations,Document Submission,2023-03-29,2023-04-02,4,Completed
+EMP0102,Operations,IT Setup,2023-04-02,2023-04-08,6,Completed
+EMP0102,Operations,Training,2023-04-08,2023-04-10,2,Completed
+EMP0102,Operations,Manager Briefing,2023-04-10,2023-04-13,3,Completed
+EMP0102,Operations,System Access,2023-04-13,2023-04-16,3,Completed
+EMP0103,Marketing,Document Submission,2024-12-29,2025-01-02,4,Completed
+EMP0103,Marketing,IT Setup,2025-01-02,2025-01-12,10,Completed
+EMP0103,Marketing,Training,2025-01-12,2025-01-16,4,Completed
+EMP0103,Marketing,Manager Briefing,2025-01-16,2025-01-19,3,Completed
+EMP0103,Marketing,System Access,2025-01-19,2025-01-29,10,Completed
+EMP0104,Sales,Document Submission,2023-09-07,2023-09-10,3,Completed
+EMP0104,Sales,IT Setup,2023-09-10,2023-09-21,11,Completed
+EMP0104,Sales,Training,2023-09-21,2023-09-23,2,Completed
+EMP0104,Sales,Manager Briefing,2023-09-23,2023-09-26,3,Completed
+EMP0104,Sales,System Access,2023-09-26,2023-10-04,8,Completed
+EMP0105,Operations,Document Submission,2024-03-11,2024-03-13,2,Completed
+EMP0105,Operations,IT Setup,2024-03-13,2024-03-25,12,Completed
+EMP0105,Operations,Training,2024-03-25,2024-03-28,3,Completed
+EMP0105,Operations,Manager Briefing,2024-03-28,2024-03-30,2,Completed
+EMP0105,Operations,System Access,2024-03-30,2024-04-08,9,Completed
+EMP0106,Marketing,Document Submission,2023-11-10,2023-11-13,3,Completed
+EMP0106,Marketing,IT Setup,2023-11-13,2023-11-22,9,Completed
+EMP0106,Marketing,Training,2023-11-22,2023-11-26,4,Completed
+EMP0106,Marketing,Manager Briefing,2023-11-26,2023-11-28,2,Completed
+EMP0106,Marketing,System Access,2023-11-28,2023-12-06,8,Completed
+EMP0107,HR,Document Submission,2024-07-02,2024-07-06,4,Completed
+EMP0107,HR,IT Setup,2024-07-06,2024-07-15,9,Completed
+EMP0107,HR,Training,2024-07-15,2024-07-19,4,Completed
+EMP0107,HR,Manager Briefing,2024-07-19,2024-07-22,3,Completed
+EMP0107,HR,System Access,2024-07-22,2024-07-26,4,Completed
+EMP0108,Marketing,Document Submission,2025-01-11,2025-01-13,2,Completed
+EMP0108,Marketing,IT Setup,2025-01-13,2025-01-27,14,Completed
+EMP0108,Marketing,Training,2025-01-27,2025-01-29,2,Completed
+EMP0108,Marketing,Manager Briefing,2025-01-29,2025-01-30,1,Completed
+EMP0108,Marketing,System Access,2025-01-30,2025-02-09,10,Completed
+EMP0109,Engineering,Document Submission,2023-10-31,2023-11-02,2,Completed
+EMP0109,Engineering,IT Setup,2023-11-02,2023-11-14,12,Completed
+EMP0109,Engineering,Training,2023-11-14,2023-11-17,3,Completed
+EMP0109,Engineering,Manager Briefing,2023-11-17,2023-11-18,1,Completed
+EMP0109,Engineering,System Access,2023-11-18,2023-11-27,9,Completed
+EMP0110,Marketing,Document Submission,2023-10-08,2023-10-12,4,Completed
+EMP0110,Marketing,IT Setup,2023-10-12,2023-10-19,7,Completed
+EMP0110,Marketing,Training,2023-10-19,2023-10-22,3,Completed
+EMP0110,Marketing,Manager Briefing,2023-10-22,2023-10-24,2,Completed
+EMP0110,Marketing,System Access,2023-10-24,2023-10-31,7,Completed
+EMP0111,Marketing,Document Submission,2024-05-17,2024-05-19,2,Completed
+EMP0111,Marketing,IT Setup,2024-05-19,2024-05-30,11,Completed
+EMP0111,Marketing,Training,2024-05-30,2024-06-03,4,Completed
+EMP0111,Marketing,Manager Briefing,2024-06-03,2024-06-04,1,Completed
+EMP0111,Marketing,System Access,2024-06-04,2024-06-14,10,Completed
+EMP0112,Finance,Document Submission,2023-02-22,2023-02-26,4,Completed
+EMP0112,Finance,IT Setup,2023-02-26,2023-03-12,14,Completed
+EMP0112,Finance,Training,2023-03-12,2023-03-16,4,Completed
+EMP0112,Finance,Manager Briefing,2023-03-16,2023-03-20,4,Completed
+EMP0112,Finance,System Access,2023-03-20,2023-03-23,3,Completed
+EMP0113,Finance,Document Submission,2024-08-13,2024-08-16,3,Completed
+EMP0113,Finance,IT Setup,2024-08-16,2024-08-29,13,Completed
+EMP0113,Finance,Training,2024-08-29,2024-08-30,1,Completed
+EMP0113,Finance,Manager Briefing,2024-08-30,2024-08-31,1,Completed
+EMP0113,Finance,System Access,2024-08-31,2024-09-06,6,Completed
+EMP0114,Operations,Document Submission,2023-03-29,2023-04-01,3,Completed
+EMP0114,Operations,IT Setup,2023-04-01,2023-04-08,7,Completed
+EMP0114,Operations,Training,2023-04-08,2023-04-09,1,Completed
+EMP0114,Operations,Manager Briefing,2023-04-09,2023-04-13,4,Completed
+EMP0114,Operations,System Access,2023-04-13,2023-04-21,8,Completed
+EMP0115,Operations,Document Submission,2024-09-25,2024-09-29,4,Completed
+EMP0115,Operations,IT Setup,2024-09-29,2024-10-05,6,Completed
+EMP0115,Operations,Training,2024-10-05,2024-10-06,1,Completed
+EMP0115,Operations,Manager Briefing,2024-10-06,2024-10-07,1,Completed
+EMP0115,Operations,System Access,2024-10-07,2024-10-14,7,Completed
+EMP0116,Finance,Document Submission,2024-08-25,2024-08-27,2,Completed
+EMP0116,Finance,IT Setup,2024-08-27,2024-09-09,13,Completed
+EMP0116,Finance,Training,2024-09-09,2024-09-11,2,Completed
+EMP0116,Finance,Manager Briefing,2024-09-11,2024-09-15,4,Completed
+EMP0116,Finance,System Access,2024-09-15,2024-09-23,8,Completed
+EMP0117,Operations,Document Submission,2023-04-12,2023-04-16,4,Completed
+EMP0117,Operations,IT Setup,2023-04-16,2023-04-28,12,Completed
+EMP0117,Operations,Training,2023-04-28,2023-04-30,2,Completed
+EMP0117,Operations,Manager Briefing,2023-04-30,2023-05-03,3,Completed
+EMP0117,Operations,System Access,2023-05-03,2023-05-06,3,Completed
+EMP0118,HR,Document Submission,2023-06-10,2023-06-14,4,Completed
+EMP0118,HR,IT Setup,2023-06-14,2023-06-20,6,Completed
+EMP0118,HR,Training,2023-06-20,2023-06-23,3,Completed
+EMP0118,HR,Manager Briefing,2023-06-23,2023-06-27,4,Completed
+EMP0118,HR,System Access,2023-06-27,2023-07-01,4,Completed
+EMP0119,Engineering,Document Submission,2024-12-06,2024-12-07,1,Completed
+EMP0119,Engineering,IT Setup,2024-12-07,2024-12-14,7,Completed
+EMP0119,Engineering,Training,2024-12-14,2024-12-17,3,Completed
+EMP0119,Engineering,Manager Briefing,2024-12-17,2024-12-20,3,Completed
+EMP0119,Engineering,System Access,2024-12-20,2024-12-28,8,Completed
+EMP0120,HR,Document Submission,2024-12-20,2024-12-24,4,Completed
+EMP0120,HR,IT Setup,2024-12-24,2025-01-01,8,Completed
+EMP0120,HR,Training,2025-01-01,2025-01-05,4,Completed
+EMP0120,HR,Manager Briefing,2025-01-05,2025-01-08,3,Completed
+EMP0120,HR,System Access,2025-01-08,2025-01-18,10,Completed
+EMP0121,HR,Document Submission,2024-10-02,2024-10-03,1,Completed
+EMP0121,HR,IT Setup,2024-10-03,2024-10-15,12,Completed
+EMP0121,HR,Training,2024-10-15,2024-10-19,4,Completed
+EMP0121,HR,Manager Briefing,2024-10-19,2024-10-22,3,Completed
+EMP0121,HR,System Access,2024-10-22,2024-10-26,4,Completed
+EMP0122,Operations,Document Submission,2023-06-02,2023-06-05,3,Completed
+EMP0122,Operations,IT Setup,2023-06-05,2023-06-10,5,Completed
+EMP0122,Operations,Training,2023-06-10,2023-06-11,1,Completed
+EMP0122,Operations,Manager Briefing,2023-06-11,2023-06-12,1,Completed
+EMP0122,Operations,System Access,2023-06-12,2023-06-20,8,Completed
+EMP0123,Sales,Document Submission,2024-09-01,2024-09-02,1,Completed
+EMP0123,Sales,IT Setup,2024-09-02,2024-09-17,15,Completed
+EMP0123,Sales,Training,2024-09-17,2024-09-19,2,Completed
+EMP0123,Sales,Manager Briefing,2024-09-19,2024-09-21,2,Completed
+EMP0123,Sales,System Access,2024-09-21,2024-09-26,5,Completed
+EMP0124,Engineering,Document Submission,2023-11-08,2023-11-10,2,Completed
+EMP0124,Engineering,IT Setup,2023-11-10,2023-11-20,10,Completed
+EMP0124,Engineering,Training,2023-11-20,2023-11-24,4,Completed
+EMP0124,Engineering,Manager Briefing,2023-11-24,2023-11-28,4,Completed
+EMP0124,Engineering,System Access,2023-11-28,2023-12-04,6,Completed
+EMP0125,Finance,Document Submission,2023-02-10,2023-02-14,4,Completed
+EMP0125,Finance,IT Setup,2023-02-14,2023-03-01,15,Completed
+EMP0125,Finance,Training,2023-03-01,2023-03-03,2,Completed
+EMP0125,Finance,Manager Briefing,2023-03-03,2023-03-05,2,Completed
+EMP0125,Finance,System Access,2023-03-05,2023-03-14,9,Completed
+EMP0126,Engineering,Document Submission,2024-11-21,2024-11-25,4,Completed
+EMP0126,Engineering,IT Setup,2024-11-25,2024-11-30,5,Completed
+EMP0126,Engineering,Training,2024-11-30,2024-12-02,2,Completed
+EMP0126,Engineering,Manager Briefing,2024-12-02,2024-12-06,4,Completed
+EMP0126,Engineering,System Access,2024-12-06,2024-12-15,9,Completed
+EMP0127,Marketing,Document Submission,2024-08-13,2024-08-17,4,Completed
+EMP0127,Marketing,IT Setup,2024-08-17,2024-08-22,5,Completed
+EMP0127,Marketing,Training,2024-08-22,2024-08-24,2,Completed
+EMP0127,Marketing,Manager Briefing,2024-08-24,2024-08-26,2,Completed
+EMP0127,Marketing,System Access,2024-08-26,2024-09-02,7,Completed
+EMP0128,HR,Document Submission,2024-08-22,2024-08-23,1,Completed
+EMP0128,HR,IT Setup,2024-08-23,2024-09-06,14,Completed
+EMP0128,HR,Training,2024-09-06,2024-09-07,1,Completed
+EMP0128,HR,Manager Briefing,2024-09-07,2024-09-09,2,Completed
+EMP0128,HR,System Access,2024-09-09,2024-09-17,8,Completed
+EMP0129,HR,Document Submission,2023-11-25,2023-11-28,3,Completed
+EMP0129,HR,IT Setup,2023-11-28,2023-12-06,8,Completed
+EMP0129,HR,Training,2023-12-06,2023-12-10,4,Completed
+EMP0129,HR,Manager Briefing,2023-12-10,2023-12-11,1,Completed
+EMP0129,HR,System Access,2023-12-11,2023-12-18,7,Completed
+EMP0130,Marketing,Document Submission,2024-11-09,2024-11-13,4,Completed
+EMP0130,Marketing,IT Setup,2024-11-13,2024-11-26,13,Completed
+EMP0130,Marketing,Training,2024-11-26,2024-11-29,3,Completed
+EMP0130,Marketing,Manager Briefing,2024-11-29,2024-12-03,4,Completed
+EMP0130,Marketing,System Access,2024-12-03,2024-12-12,9,Completed
+EMP0131,Engineering,Document Submission,2023-11-28,2023-11-29,1,Completed
+EMP0131,Engineering,IT Setup,2023-11-29,2023-12-09,10,Completed
+EMP0131,Engineering,Training,2023-12-09,2023-12-12,3,Completed
+EMP0131,Engineering,Manager Briefing,2023-12-12,2023-12-16,4,Completed
+EMP0131,Engineering,System Access,2023-12-16,2023-12-21,5,Completed
+EMP0132,Finance,Document Submission,2024-06-14,2024-06-17,3,Completed
+EMP0132,Finance,IT Setup,2024-06-17,2024-07-01,14,Completed
+EMP0132,Finance,Training,2024-07-01,2024-07-02,1,Completed
+EMP0132,Finance,Manager Briefing,2024-07-02,2024-07-04,2,Completed
+EMP0132,Finance,System Access,2024-07-04,2024-07-12,8,Completed
+EMP0133,Engineering,Document Submission,2024-07-16,2024-07-17,1,Completed
+EMP0133,Engineering,IT Setup,2024-07-17,2024-07-25,8,Completed
+EMP0133,Engineering,Training,2024-07-25,2024-07-28,3,Completed
+EMP0133,Engineering,Manager Briefing,2024-07-28,2024-07-29,1,Completed
+EMP0133,Engineering,System Access,2024-07-29,2024-08-03,5,Completed
+EMP0134,Marketing,Document Submission,2023-09-03,2023-09-06,3,Completed
+EMP0134,Marketing,IT Setup,2023-09-06,2023-09-13,7,Completed
+EMP0134,Marketing,Training,2023-09-13,2023-09-17,4,Completed
+EMP0134,Marketing,Manager Briefing,2023-09-17,2023-09-21,4,Completed
+EMP0134,Marketing,System Access,2023-09-21,2023-09-26,5,Completed
+EMP0135,Operations,Document Submission,2023-08-19,2023-08-23,4,Completed
+EMP0135,Operations,IT Setup,2023-08-23,2023-09-03,11,Completed
+EMP0135,Operations,Training,2023-09-03,2023-09-05,2,Completed
+EMP0135,Operations,Manager Briefing,2023-09-05,2023-09-09,4,Completed
+EMP0135,Operations,System Access,2023-09-09,2023-09-14,5,Completed
+EMP0136,Marketing,Document Submission,2024-05-25,2024-05-27,2,Completed
+EMP0136,Marketing,IT Setup,2024-05-27,2024-06-08,12,Completed
+EMP0136,Marketing,Training,2024-06-08,2024-06-11,3,Completed
+EMP0136,Marketing,Manager Briefing,2024-06-11,2024-06-13,2,Completed
+EMP0136,Marketing,System Access,2024-06-13,2024-06-18,5,Completed
+EMP0137,Finance,Document Submission,2024-04-28,2024-05-01,3,Completed
+EMP0137,Finance,IT Setup,2024-05-01,2024-05-13,12,Completed
+EMP0137,Finance,Training,2024-05-13,2024-05-14,1,Completed
+EMP0137,Finance,Manager Briefing,2024-05-14,2024-05-17,3,Completed
+EMP0137,Finance,System Access,2024-05-17,2024-05-20,3,Completed
+EMP0138,Sales,Document Submission,2024-06-04,2024-06-08,4,Completed
+EMP0138,Sales,IT Setup,2024-06-08,2024-06-15,7,Completed
+EMP0138,Sales,Training,2024-06-15,2024-06-17,2,Completed
+EMP0138,Sales,Manager Briefing,2024-06-17,2024-06-21,4,Completed
+EMP0138,Sales,System Access,2024-06-21,2024-07-01,10,Completed
+EMP0139,Finance,Document Submission,2025-03-17,2025-03-21,4,Completed
+EMP0139,Finance,IT Setup,2025-03-21,2025-04-05,15,Completed
+EMP0139,Finance,Training,2025-04-05,2025-04-09,4,Completed
+EMP0139,Finance,Manager Briefing,2025-04-09,2025-04-13,4,Completed
+EMP0139,Finance,System Access,2025-04-13,2025-04-23,10,Completed
+EMP0140,Operations,Document Submission,2024-11-06,2024-11-10,4,Completed
+EMP0140,Operations,IT Setup,2024-11-10,2024-11-17,7,Completed
+EMP0140,Operations,Training,2024-11-17,2024-11-18,1,Completed
+EMP0140,Operations,Manager Briefing,2024-11-18,2024-11-19,1,Completed
+EMP0140,Operations,System Access,2024-11-19,2024-11-25,6,Completed
+EMP0141,HR,Document Submission,2025-02-20,2025-02-23,3,Completed
+EMP0141,HR,IT Setup,2025-02-23,2025-02-28,5,Completed
+EMP0141,HR,Training,2025-02-28,2025-03-03,3,Completed
+EMP0141,HR,Manager Briefing,2025-03-03,2025-03-05,2,Completed
+EMP0141,HR,System Access,2025-03-05,2025-03-12,7,Completed
+EMP0142,Marketing,Document Submission,2024-01-28,2024-01-30,2,Completed
+EMP0142,Marketing,IT Setup,2024-01-30,2024-02-11,12,Completed
+EMP0142,Marketing,Training,2024-02-11,2024-02-15,4,Completed
+EMP0142,Marketing,Manager Briefing,2024-02-15,2024-02-16,1,Completed
+EMP0142,Marketing,System Access,2024-02-16,2024-02-20,4,Completed
+EMP0143,Marketing,Document Submission,2024-01-26,2024-01-29,3,Completed
+EMP0143,Marketing,IT Setup,2024-01-29,2024-02-11,13,Completed
+EMP0143,Marketing,Training,2024-02-11,2024-02-14,3,Completed
+EMP0143,Marketing,Manager Briefing,2024-02-14,2024-02-15,1,Completed
+EMP0143,Marketing,System Access,2024-02-15,2024-02-25,10,Completed
+EMP0144,Sales,Document Submission,2024-08-27,2024-08-29,2,Completed
+EMP0144,Sales,IT Setup,2024-08-29,2024-09-09,11,Completed
+EMP0144,Sales,Training,2024-09-09,2024-09-10,1,Completed
+EMP0144,Sales,Manager Briefing,2024-09-10,2024-09-12,2,Completed
+EMP0144,Sales,System Access,2024-09-12,2024-09-19,7,Completed
+EMP0145,Operations,Document Submission,2023-01-16,2023-01-17,1,Completed
+EMP0145,Operations,IT Setup,2023-01-17,2023-01-29,12,Completed
+EMP0145,Operations,Training,2023-01-29,2023-02-01,3,Completed
+EMP0145,Operations,Manager Briefing,2023-02-01,2023-02-04,3,Completed
+EMP0145,Operations,System Access,2023-02-04,2023-02-08,4,Completed
+EMP0146,Engineering,Document Submission,2023-09-29,2023-10-03,4,Completed
+EMP0146,Engineering,IT Setup,2023-10-03,2023-10-09,6,Completed
+EMP0146,Engineering,Training,2023-10-09,2023-10-11,2,Completed
+EMP0146,Engineering,Manager Briefing,2023-10-11,2023-10-13,2,Completed
+EMP0146,Engineering,System Access,2023-10-13,2023-10-21,8,Completed
+EMP0147,HR,Document Submission,2025-05-29,2025-06-02,4,Completed
+EMP0147,HR,IT Setup,2025-06-02,2025-06-09,7,Completed
+EMP0147,HR,Training,2025-06-09,2025-06-11,2,Completed
+EMP0147,HR,Manager Briefing,2025-06-11,2025-06-13,2,Completed
+EMP0147,HR,System Access,2025-06-13,2025-06-19,6,Completed
+EMP0148,Operations,Document Submission,2023-03-12,2023-03-13,1,Completed
+EMP0148,Operations,IT Setup,2023-03-13,2023-03-27,14,Completed
+EMP0148,Operations,Training,2023-03-27,2023-03-30,3,Completed
+EMP0148,Operations,Manager Briefing,2023-03-30,2023-04-02,3,Completed
+EMP0148,Operations,System Access,2023-04-02,2023-04-07,5,Completed
+EMP0149,Finance,Document Submission,2025-02-17,2025-02-20,3,Completed
+EMP0149,Finance,IT Setup,2025-02-20,2025-03-01,9,Completed
+EMP0149,Finance,Training,2025-03-01,2025-03-04,3,Completed
+EMP0149,Finance,Manager Briefing,2025-03-04,2025-03-07,3,Completed
+EMP0149,Finance,System Access,2025-03-07,2025-03-11,4,Completed
+EMP0150,Marketing,Document Submission,2023-01-30,2023-02-01,2,Completed
+EMP0150,Marketing,IT Setup,2023-02-01,2023-02-12,11,Completed
+EMP0150,Marketing,Training,2023-02-12,2023-02-13,1,Completed
+EMP0150,Marketing,Manager Briefing,2023-02-13,2023-02-16,3,Completed
+EMP0150,Marketing,System Access,2023-02-16,2023-02-21,5,Completed
+EMP0151,Sales,Document Submission,2024-02-26,2024-02-28,2,Completed
+EMP0151,Sales,IT Setup,2024-02-28,2024-03-07,8,Completed
+EMP0151,Sales,Training,2024-03-07,2024-03-09,2,Completed
+EMP0151,Sales,Manager Briefing,2024-03-09,2024-03-12,3,Completed
+EMP0151,Sales,System Access,2024-03-12,2024-03-18,6,Completed
+EMP0152,Engineering,Document Submission,2024-01-27,2024-01-31,4,Completed
+EMP0152,Engineering,IT Setup,2024-01-31,2024-02-12,12,Completed
+EMP0152,Engineering,Training,2024-02-12,2024-02-14,2,Completed
+EMP0152,Engineering,Manager Briefing,2024-02-14,2024-02-17,3,Completed
+EMP0152,Engineering,System Access,2024-02-17,2024-02-26,9,Completed
+EMP0153,Sales,Document Submission,2023-09-18,2023-09-22,4,Completed
+EMP0153,Sales,IT Setup,2023-09-22,2023-10-04,12,Completed
+EMP0153,Sales,Training,2023-10-04,2023-10-05,1,Completed
+EMP0153,Sales,Manager Briefing,2023-10-05,2023-10-06,1,Completed
+EMP0153,Sales,System Access,2023-10-06,2023-10-15,9,Completed
+EMP0154,Marketing,Document Submission,2023-03-17,2023-03-20,3,Completed
+EMP0154,Marketing,IT Setup,2023-03-20,2023-03-30,10,Completed
+EMP0154,Marketing,Training,2023-03-30,2023-04-03,4,Completed
+EMP0154,Marketing,Manager Briefing,2023-04-03,2023-04-07,4,Completed
+EMP0154,Marketing,System Access,2023-04-07,2023-04-15,8,Completed
+EMP0155,Marketing,Document Submission,2024-12-07,2024-12-08,1,Completed
+EMP0155,Marketing,IT Setup,2024-12-08,2024-12-14,6,Completed
+EMP0155,Marketing,Training,2024-12-14,2024-12-18,4,Completed
+EMP0155,Marketing,Manager Briefing,2024-12-18,2024-12-21,3,Completed
+EMP0155,Marketing,System Access,2024-12-21,2024-12-25,4,Completed
+EMP0156,Finance,Document Submission,2024-01-26,2024-01-30,4,Completed
+EMP0156,Finance,IT Setup,2024-01-30,2024-02-07,8,Completed
+EMP0156,Finance,Training,2024-02-07,2024-02-11,4,Completed
+EMP0156,Finance,Manager Briefing,2024-02-11,2024-02-13,2,Completed
+EMP0156,Finance,System Access,2024-02-13,2024-02-23,10,Completed
+EMP0157,Engineering,Document Submission,2024-11-05,2024-11-08,3,Completed
+EMP0157,Engineering,IT Setup,2024-11-08,2024-11-18,10,Completed
+EMP0157,Engineering,Training,2024-11-18,2024-11-21,3,Completed
+EMP0157,Engineering,Manager Briefing,2024-11-21,2024-11-24,3,Completed
+EMP0157,Engineering,System Access,2024-11-24,2024-11-29,5,Completed
+EMP0158,Operations,Document Submission,2025-05-02,2025-05-06,4,Completed
+EMP0158,Operations,IT Setup,2025-05-06,2025-05-16,10,Completed
+EMP0158,Operations,Training,2025-05-16,2025-05-17,1,Completed
+EMP0158,Operations,Manager Briefing,2025-05-17,2025-05-18,1,Completed
+EMP0158,Operations,System Access,2025-05-18,2025-05-22,4,Completed
+EMP0159,Operations,Document Submission,2023-08-13,2023-08-17,4,Completed
+EMP0159,Operations,IT Setup,2023-08-17,2023-08-22,5,Completed
+EMP0159,Operations,Training,2023-08-22,2023-08-23,1,Completed
+EMP0159,Operations,Manager Briefing,2023-08-23,2023-08-25,2,Completed
+EMP0159,Operations,System Access,2023-08-25,2023-09-04,10,Completed
+EMP0160,Marketing,Document Submission,2024-10-04,2024-10-08,4,Completed
+EMP0160,Marketing,IT Setup,2024-10-08,2024-10-13,5,Completed
+EMP0160,Marketing,Training,2024-10-13,2024-10-17,4,Completed
+EMP0160,Marketing,Manager Briefing,2024-10-17,2024-10-19,2,Completed
+EMP0160,Marketing,System Access,2024-10-19,2024-10-24,5,Completed
+EMP0161,Operations,Document Submission,2023-05-15,2023-05-18,3,Completed
+EMP0161,Operations,IT Setup,2023-05-18,2023-05-25,7,Completed
+EMP0161,Operations,Training,2023-05-25,2023-05-28,3,Completed
+EMP0161,Operations,Manager Briefing,2023-05-28,2023-05-29,1,Completed
+EMP0161,Operations,System Access,2023-05-29,2023-06-06,8,Completed
+EMP0162,Sales,Document Submission,2025-06-16,2025-06-19,3,Completed
+EMP0162,Sales,IT Setup,2025-06-19,2025-06-25,6,Completed
+EMP0162,Sales,Training,2025-06-25,2025-06-28,3,Completed
+EMP0162,Sales,Manager Briefing,2025-06-28,2025-06-30,2,Completed
+EMP0162,Sales,System Access,2025-06-30,2025-07-03,3,Completed
+EMP0163,Sales,Document Submission,2025-04-24,2025-04-28,4,Completed
+EMP0163,Sales,IT Setup,2025-04-28,2025-05-13,15,Completed
+EMP0163,Sales,Training,2025-05-13,2025-05-16,3,Completed
+EMP0163,Sales,Manager Briefing,2025-05-16,2025-05-18,2,Completed
+EMP0163,Sales,System Access,2025-05-18,2025-05-27,9,Completed
+EMP0164,Engineering,Document Submission,2023-03-19,2023-03-20,1,Completed
+EMP0164,Engineering,IT Setup,2023-03-20,2023-03-26,6,Completed
+EMP0164,Engineering,Training,2023-03-26,2023-03-27,1,Completed
+EMP0164,Engineering,Manager Briefing,2023-03-27,2023-03-29,2,Completed
+EMP0164,Engineering,System Access,2023-03-29,2023-04-08,10,Completed
+EMP0165,Engineering,Document Submission,2023-01-15,2023-01-16,1,Completed
+EMP0165,Engineering,IT Setup,2023-01-16,2023-01-23,7,Completed
+EMP0165,Engineering,Training,2023-01-23,2023-01-25,2,Completed
+EMP0165,Engineering,Manager Briefing,2023-01-25,2023-01-29,4,Completed
+EMP0165,Engineering,System Access,2023-01-29,2023-02-01,3,Completed
+EMP0166,Marketing,Document Submission,2023-09-26,2023-09-27,1,Completed
+EMP0166,Marketing,IT Setup,2023-09-27,2023-10-07,10,Completed
+EMP0166,Marketing,Training,2023-10-07,2023-10-08,1,Completed
+EMP0166,Marketing,Manager Briefing,2023-10-08,2023-10-12,4,Completed
+EMP0166,Marketing,System Access,2023-10-12,2023-10-17,5,Completed
+EMP0167,Finance,Document Submission,2025-06-24,2025-06-28,4,Completed
+EMP0167,Finance,IT Setup,2025-06-28,2025-07-04,6,Completed
+EMP0167,Finance,Training,2025-07-04,2025-07-06,2,Completed
+EMP0167,Finance,Manager Briefing,2025-07-06,2025-07-10,4,Completed
+EMP0167,Finance,System Access,2025-07-10,2025-07-14,4,Completed
+EMP0168,Marketing,Document Submission,2025-04-23,2025-04-24,1,Completed
+EMP0168,Marketing,IT Setup,2025-04-24,2025-04-30,6,Completed
+EMP0168,Marketing,Training,2025-04-30,2025-05-03,3,Completed
+EMP0168,Marketing,Manager Briefing,2025-05-03,2025-05-06,3,Completed
+EMP0168,Marketing,System Access,2025-05-06,2025-05-13,7,Completed
+EMP0169,Engineering,Document Submission,2025-08-26,2025-08-28,2,Completed
+EMP0169,Engineering,IT Setup,2025-08-28,2025-09-08,11,Completed
+EMP0169,Engineering,Training,2025-09-08,2025-09-10,2,Completed
+EMP0169,Engineering,Manager Briefing,2025-09-10,2025-09-12,2,Completed
+EMP0169,Engineering,System Access,2025-09-12,2025-09-16,4,Completed
+EMP0170,Finance,Document Submission,2024-11-17,2024-11-18,1,Completed
+EMP0170,Finance,IT Setup,2024-11-18,2024-12-02,14,Completed
+EMP0170,Finance,Training,2024-12-02,2024-12-04,2,Completed
+EMP0170,Finance,Manager Briefing,2024-12-04,2024-12-08,4,Completed
+EMP0170,Finance,System Access,2024-12-08,2024-12-16,8,Completed
+EMP0171,Finance,Document Submission,2025-05-03,2025-05-05,2,Completed
+EMP0171,Finance,IT Setup,2025-05-05,2025-05-20,15,Completed
+EMP0171,Finance,Training,2025-05-20,2025-05-22,2,Completed
+EMP0171,Finance,Manager Briefing,2025-05-22,2025-05-26,4,Completed
+EMP0171,Finance,System Access,2025-05-26,2025-06-05,10,Completed
+EMP0172,Marketing,Document Submission,2024-03-30,2024-04-01,2,Completed
+EMP0172,Marketing,IT Setup,2024-04-01,2024-04-07,6,Completed
+EMP0172,Marketing,Training,2024-04-07,2024-04-08,1,Completed
+EMP0172,Marketing,Manager Briefing,2024-04-08,2024-04-10,2,Completed
+EMP0172,Marketing,System Access,2024-04-10,2024-04-14,4,Completed
+EMP0173,Marketing,Document Submission,2025-07-12,2025-07-16,4,Completed
+EMP0173,Marketing,IT Setup,2025-07-16,2025-07-26,10,Completed
+EMP0173,Marketing,Training,2025-07-26,2025-07-30,4,Completed
+EMP0173,Marketing,Manager Briefing,2025-07-30,2025-08-02,3,Completed
+EMP0173,Marketing,System Access,2025-08-02,2025-08-07,5,Completed
+EMP0174,HR,Document Submission,2023-05-06,2023-05-08,2,Completed
+EMP0174,HR,IT Setup,2023-05-08,2023-05-17,9,Completed
+EMP0174,HR,Training,2023-05-17,2023-05-18,1,Completed
+EMP0174,HR,Manager Briefing,2023-05-18,2023-05-20,2,Completed
+EMP0174,HR,System Access,2023-05-20,2023-05-27,7,Completed
+EMP0175,Marketing,Document Submission,2023-01-22,2023-01-23,1,Completed
+EMP0175,Marketing,IT Setup,2023-01-23,2023-02-07,15,Completed
+EMP0175,Marketing,Training,2023-02-07,2023-02-10,3,Completed
+EMP0175,Marketing,Manager Briefing,2023-02-10,2023-02-12,2,Completed
+EMP0175,Marketing,System Access,2023-02-12,2023-02-18,6,Completed
+EMP0176,Engineering,Document Submission,2024-07-21,2024-07-25,4,Completed
+EMP0176,Engineering,IT Setup,2024-07-25,2024-08-03,9,Completed
+EMP0176,Engineering,Training,2024-08-03,2024-08-04,1,Completed
+EMP0176,Engineering,Manager Briefing,2024-08-04,2024-08-06,2,Completed
+EMP0176,Engineering,System Access,2024-08-06,2024-08-16,10,Completed
+EMP0177,Sales,Document Submission,2024-09-02,2024-09-06,4,Completed
+EMP0177,Sales,IT Setup,2024-09-06,2024-09-12,6,Completed
+EMP0177,Sales,Training,2024-09-12,2024-09-14,2,Completed
+EMP0177,Sales,Manager Briefing,2024-09-14,2024-09-18,4,Completed
+EMP0177,Sales,System Access,2024-09-18,2024-09-22,4,Completed
+EMP0178,Sales,Document Submission,2025-06-06,2025-06-07,1,Completed
+EMP0178,Sales,IT Setup,2025-06-07,2025-06-17,10,Completed
+EMP0178,Sales,Training,2025-06-17,2025-06-20,3,Completed
+EMP0178,Sales,Manager Briefing,2025-06-20,2025-06-22,2,Completed
+EMP0178,Sales,System Access,2025-06-22,2025-07-01,9,Completed
+EMP0179,Engineering,Document Submission,2023-02-23,2023-02-27,4,Completed
+EMP0179,Engineering,IT Setup,2023-02-27,2023-03-09,10,Completed
+EMP0179,Engineering,Training,2023-03-09,2023-03-11,2,Completed
+EMP0179,Engineering,Manager Briefing,2023-03-11,2023-03-15,4,Completed
+EMP0179,Engineering,System Access,2023-03-15,2023-03-19,4,Completed
+EMP0180,Finance,Document Submission,2024-01-06,2024-01-07,1,Completed
+EMP0180,Finance,IT Setup,2024-01-07,2024-01-21,14,Completed
+EMP0180,Finance,Training,2024-01-21,2024-01-22,1,Completed
+EMP0180,Finance,Manager Briefing,2024-01-22,2024-01-23,1,Completed
+EMP0180,Finance,System Access,2024-01-23,2024-01-30,7,Completed
+EMP0181,Operations,Document Submission,2025-03-13,2025-03-15,2,Completed
+EMP0181,Operations,IT Setup,2025-03-15,2025-03-20,5,Completed
+EMP0181,Operations,Training,2025-03-20,2025-03-21,1,Completed
+EMP0181,Operations,Manager Briefing,2025-03-21,2025-03-25,4,Completed
+EMP0181,Operations,System Access,2025-03-25,2025-04-01,7,Completed
+EMP0182,Marketing,Document Submission,2023-03-04,2023-03-08,4,Completed
+EMP0182,Marketing,IT Setup,2023-03-08,2023-03-19,11,Completed
+EMP0182,Marketing,Training,2023-03-19,2023-03-23,4,Completed
+EMP0182,Marketing,Manager Briefing,2023-03-23,2023-03-24,1,Completed
+EMP0182,Marketing,System Access,2023-03-24,2023-03-29,5,Completed
+EMP0183,Finance,Document Submission,2024-03-30,2024-04-02,3,Completed
+EMP0183,Finance,IT Setup,2024-04-02,2024-04-08,6,Completed
+EMP0183,Finance,Training,2024-04-08,2024-04-11,3,Completed
+EMP0183,Finance,Manager Briefing,2024-04-11,2024-04-12,1,Completed
+EMP0183,Finance,System Access,2024-04-12,2024-04-18,6,Completed
+EMP0184,Sales,Document Submission,2024-10-10,2024-10-12,2,Completed
+EMP0184,Sales,IT Setup,2024-10-12,2024-10-25,13,Completed
+EMP0184,Sales,Training,2024-10-25,2024-10-28,3,Completed
+EMP0184,Sales,Manager Briefing,2024-10-28,2024-11-01,4,Completed
+EMP0184,Sales,System Access,2024-11-01,2024-11-05,4,Completed
+EMP0185,Finance,Document Submission,2024-03-16,2024-03-19,3,Completed
+EMP0185,Finance,IT Setup,2024-03-19,2024-03-30,11,Completed
+EMP0185,Finance,Training,2024-03-30,2024-04-01,2,Completed
+EMP0185,Finance,Manager Briefing,2024-04-01,2024-04-02,1,Completed
+EMP0185,Finance,System Access,2024-04-02,2024-04-08,6,Completed
+EMP0186,Finance,Document Submission,2023-08-22,2023-08-23,1,Completed
+EMP0186,Finance,IT Setup,2023-08-23,2023-09-03,11,Completed
+EMP0186,Finance,Training,2023-09-03,2023-09-04,1,Completed
+EMP0186,Finance,Manager Briefing,2023-09-04,2023-09-08,4,Completed
+EMP0186,Finance,System Access,2023-09-08,2023-09-11,3,Completed
+EMP0187,Marketing,Document Submission,2024-03-13,2024-03-16,3,Completed
+EMP0187,Marketing,IT Setup,2024-03-16,2024-03-31,15,Completed
+EMP0187,Marketing,Training,2024-03-31,2024-04-02,2,Completed
+EMP0187,Marketing,Manager Briefing,2024-04-02,2024-04-03,1,Completed
+EMP0187,Marketing,System Access,2024-04-03,2024-04-06,3,Completed
+EMP0188,Marketing,Document Submission,2023-03-10,2023-03-12,2,Completed
+EMP0188,Marketing,IT Setup,2023-03-12,2023-03-17,5,Completed
+EMP0188,Marketing,Training,2023-03-17,2023-03-19,2,Completed
+EMP0188,Marketing,Manager Briefing,2023-03-19,2023-03-23,4,Completed
+EMP0188,Marketing,System Access,2023-03-23,2023-03-31,8,Completed
+EMP0189,Sales,Document Submission,2024-08-23,2024-08-26,3,Completed
+EMP0189,Sales,IT Setup,2024-08-26,2024-09-02,7,Completed
+EMP0189,Sales,Training,2024-09-02,2024-09-05,3,Completed
+EMP0189,Sales,Manager Briefing,2024-09-05,2024-09-07,2,Completed
+EMP0189,Sales,System Access,2024-09-07,2024-09-14,7,Completed
+EMP0190,Finance,Document Submission,2024-11-12,2024-11-13,1,Completed
+EMP0190,Finance,IT Setup,2024-11-13,2024-11-18,5,Completed
+EMP0190,Finance,Training,2024-11-18,2024-11-21,3,Completed
+EMP0190,Finance,Manager Briefing,2024-11-21,2024-11-25,4,Completed
+EMP0190,Finance,System Access,2024-11-25,2024-12-02,7,Completed
+EMP0191,HR,Document Submission,2023-12-27,2023-12-28,1,Completed
+EMP0191,HR,IT Setup,2023-12-28,2024-01-06,9,Completed
+EMP0191,HR,Training,2024-01-06,2024-01-07,1,Completed
+EMP0191,HR,Manager Briefing,2024-01-07,2024-01-11,4,Completed
+EMP0191,HR,System Access,2024-01-11,2024-01-21,10,Completed
+EMP0192,Sales,Document Submission,2023-12-25,2023-12-28,3,Completed
+EMP0192,Sales,IT Setup,2023-12-28,2024-01-02,5,Completed
+EMP0192,Sales,Training,2024-01-02,2024-01-06,4,Completed
+EMP0192,Sales,Manager Briefing,2024-01-06,2024-01-08,2,Completed
+EMP0192,Sales,System Access,2024-01-08,2024-01-16,8,Completed
+EMP0193,Operations,Document Submission,2024-03-15,2024-03-17,2,Completed
+EMP0193,Operations,IT Setup,2024-03-17,2024-03-26,9,Completed
+EMP0193,Operations,Training,2024-03-26,2024-03-27,1,Completed
+EMP0193,Operations,Manager Briefing,2024-03-27,2024-03-28,1,Completed
+EMP0193,Operations,System Access,2024-03-28,2024-04-03,6,Completed
+EMP0194,Engineering,Document Submission,2024-12-20,2024-12-21,1,Completed
+EMP0194,Engineering,IT Setup,2024-12-21,2024-12-26,5,Completed
+EMP0194,Engineering,Training,2024-12-26,2024-12-27,1,Completed
+EMP0194,Engineering,Manager Briefing,2024-12-27,2024-12-29,2,Completed
+EMP0194,Engineering,System Access,2024-12-29,2025-01-01,3,Completed
+EMP0195,Sales,Document Submission,2024-08-02,2024-08-06,4,Completed
+EMP0195,Sales,IT Setup,2024-08-06,2024-08-16,10,Completed
+EMP0195,Sales,Training,2024-08-16,2024-08-20,4,Completed
+EMP0195,Sales,Manager Briefing,2024-08-20,2024-08-22,2,Completed
+EMP0195,Sales,System Access,2024-08-22,2024-08-27,5,Completed
+EMP0196,Engineering,Document Submission,2023-08-09,2023-08-10,1,Completed
+EMP0196,Engineering,IT Setup,2023-08-10,2023-08-23,13,Completed
+EMP0196,Engineering,Training,2023-08-23,2023-08-27,4,Completed
+EMP0196,Engineering,Manager Briefing,2023-08-27,2023-08-29,2,Completed
+EMP0196,Engineering,System Access,2023-08-29,2023-09-06,8,Completed
+EMP0197,HR,Document Submission,2023-11-29,2023-12-01,2,Completed
+EMP0197,HR,IT Setup,2023-12-01,2023-12-12,11,Completed
+EMP0197,HR,Training,2023-12-12,2023-12-15,3,Completed
+EMP0197,HR,Manager Briefing,2023-12-15,2023-12-18,3,Completed
+EMP0197,HR,System Access,2023-12-18,2023-12-22,4,Completed
+EMP0198,Engineering,Document Submission,2025-02-11,2025-02-14,3,Completed
+EMP0198,Engineering,IT Setup,2025-02-14,2025-02-20,6,Completed
+EMP0198,Engineering,Training,2025-02-20,2025-02-21,1,Completed
+EMP0198,Engineering,Manager Briefing,2025-02-21,2025-02-23,2,Completed
+EMP0198,Engineering,System Access,2025-02-23,2025-03-01,6,Completed
+EMP0199,Marketing,Document Submission,2024-09-13,2024-09-14,1,Completed
+EMP0199,Marketing,IT Setup,2024-09-14,2024-09-25,11,Completed
+EMP0199,Marketing,Training,2024-09-25,2024-09-26,1,Completed
+EMP0199,Marketing,Manager Briefing,2024-09-26,2024-09-30,4,Completed
+EMP0199,Marketing,System Access,2024-09-30,2024-10-07,7,Completed
+EMP0200,HR,Document Submission,2023-10-18,2023-10-21,3,Completed
+EMP0200,HR,IT Setup,2023-10-21,2023-10-31,10,Completed
+EMP0200,HR,Training,2023-10-31,2023-11-01,1,Completed
+EMP0200,HR,Manager Briefing,2023-11-01,2023-11-05,4,Completed
+EMP0200,HR,System Access,2023-11-05,2023-11-08,3,Completed
+EMP0201,Engineering,Document Submission,2024-09-05,2024-09-08,3,Completed
+EMP0201,Engineering,IT Setup,2024-09-08,2024-09-16,8,Completed
+EMP0201,Engineering,Training,2024-09-16,2024-09-19,3,Completed
+EMP0201,Engineering,Manager Briefing,2024-09-19,2024-09-22,3,Completed
+EMP0201,Engineering,System Access,2024-09-22,2024-09-28,6,Completed
+EMP0202,HR,Document Submission,2023-05-03,2023-05-07,4,Completed
+EMP0202,HR,IT Setup,2023-05-07,2023-05-17,10,Completed
+EMP0202,HR,Training,2023-05-17,2023-05-21,4,Completed
+EMP0202,HR,Manager Briefing,2023-05-21,2023-05-23,2,Completed
+EMP0202,HR,System Access,2023-05-23,2023-05-29,6,Completed
+EMP0203,Operations,Document Submission,2024-05-27,2024-05-29,2,Completed
+EMP0203,Operations,IT Setup,2024-05-29,2024-06-03,5,Completed
+EMP0203,Operations,Training,2024-06-03,2024-06-07,4,Completed
+EMP0203,Operations,Manager Briefing,2024-06-07,2024-06-08,1,Completed
+EMP0203,Operations,System Access,2024-06-08,2024-06-14,6,Completed
+EMP0204,Marketing,Document Submission,2023-01-20,2023-01-23,3,Completed
+EMP0204,Marketing,IT Setup,2023-01-23,2023-02-07,15,Completed
+EMP0204,Marketing,Training,2023-02-07,2023-02-08,1,Completed
+EMP0204,Marketing,Manager Briefing,2023-02-08,2023-02-11,3,Completed
+EMP0204,Marketing,System Access,2023-02-11,2023-02-14,3,Completed
+EMP0205,Operations,Document Submission,2024-10-17,2024-10-21,4,Completed
+EMP0205,Operations,IT Setup,2024-10-21,2024-10-30,9,Completed
+EMP0205,Operations,Training,2024-10-30,2024-10-31,1,Completed
+EMP0205,Operations,Manager Briefing,2024-10-31,2024-11-02,2,Completed
+EMP0205,Operations,System Access,2024-11-02,2024-11-08,6,Completed
+EMP0206,HR,Document Submission,2025-08-28,2025-09-01,4,Completed
+EMP0206,HR,IT Setup,2025-09-01,2025-09-13,12,Completed
+EMP0206,HR,Training,2025-09-13,2025-09-14,1,Completed
+EMP0206,HR,Manager Briefing,2025-09-14,2025-09-16,2,Completed
+EMP0206,HR,System Access,2025-09-16,2025-09-23,7,Completed
+EMP0207,Engineering,Document Submission,2024-08-26,2024-08-27,1,Completed
+EMP0207,Engineering,IT Setup,2024-08-27,2024-09-01,5,Completed
+EMP0207,Engineering,Training,2024-09-01,2024-09-03,2,Completed
+EMP0207,Engineering,Manager Briefing,2024-09-03,2024-09-07,4,Completed
+EMP0207,Engineering,System Access,2024-09-07,2024-09-15,8,Completed
+EMP0208,Marketing,Document Submission,2023-12-08,2023-12-12,4,Completed
+EMP0208,Marketing,IT Setup,2023-12-12,2023-12-18,6,Completed
+EMP0208,Marketing,Training,2023-12-18,2023-12-19,1,Completed
+EMP0208,Marketing,Manager Briefing,2023-12-19,2023-12-21,2,Completed
+EMP0208,Marketing,System Access,2023-12-21,2023-12-30,9,Completed
+EMP0209,Operations,Document Submission,2025-07-16,2025-07-17,1,Completed
+EMP0209,Operations,IT Setup,2025-07-17,2025-07-31,14,Completed
+EMP0209,Operations,Training,2025-07-31,2025-08-01,1,Completed
+EMP0209,Operations,Manager Briefing,2025-08-01,2025-08-05,4,Completed
+EMP0209,Operations,System Access,2025-08-05,2025-08-10,5,Completed
+EMP0210,Sales,Document Submission,2023-09-20,2023-09-22,2,Completed
+EMP0210,Sales,IT Setup,2023-09-22,2023-10-01,9,Completed
+EMP0210,Sales,Training,2023-10-01,2023-10-04,3,Completed
+EMP0210,Sales,Manager Briefing,2023-10-04,2023-10-07,3,Completed
+EMP0210,Sales,System Access,2023-10-07,2023-10-16,9,Completed
+EMP0211,Finance,Document Submission,2025-02-17,2025-02-20,3,Completed
+EMP0211,Finance,IT Setup,2025-02-20,2025-03-02,10,Completed
+EMP0211,Finance,Training,2025-03-02,2025-03-06,4,Completed
+EMP0211,Finance,Manager Briefing,2025-03-06,2025-03-09,3,Completed
+EMP0211,Finance,System Access,2025-03-09,2025-03-15,6,Completed
+EMP0212,Marketing,Document Submission,2024-03-26,2024-03-27,1,Completed
+EMP0212,Marketing,IT Setup,2024-03-27,2024-04-04,8,Completed
+EMP0212,Marketing,Training,2024-04-04,2024-04-06,2,Completed
+EMP0212,Marketing,Manager Briefing,2024-04-06,2024-04-07,1,Completed
+EMP0212,Marketing,System Access,2024-04-07,2024-04-12,5,Completed
+EMP0213,HR,Document Submission,2023-11-14,2023-11-15,1,Completed
+EMP0213,HR,IT Setup,2023-11-15,2023-11-22,7,Completed
+EMP0213,HR,Training,2023-11-22,2023-11-26,4,Completed
+EMP0213,HR,Manager Briefing,2023-11-26,2023-11-30,4,Completed
+EMP0213,HR,System Access,2023-11-30,2023-12-08,8,Completed
+EMP0214,HR,Document Submission,2025-06-03,2025-06-07,4,Completed
+EMP0214,HR,IT Setup,2025-06-07,2025-06-13,6,Completed
+EMP0214,HR,Training,2025-06-13,2025-06-16,3,Completed
+EMP0214,HR,Manager Briefing,2025-06-16,2025-06-18,2,Completed
+EMP0214,HR,System Access,2025-06-18,2025-06-28,10,Completed
+EMP0215,Finance,Document Submission,2025-03-21,2025-03-24,3,Completed
+EMP0215,Finance,IT Setup,2025-03-24,2025-04-05,12,Completed
+EMP0215,Finance,Training,2025-04-05,2025-04-08,3,Completed
+EMP0215,Finance,Manager Briefing,2025-04-08,2025-04-09,1,Completed
+EMP0215,Finance,System Access,2025-04-09,2025-04-13,4,Completed
+EMP0216,HR,Document Submission,2024-05-28,2024-05-30,2,Completed
+EMP0216,HR,IT Setup,2024-05-30,2024-06-14,15,Completed
+EMP0216,HR,Training,2024-06-14,2024-06-17,3,Completed
+EMP0216,HR,Manager Briefing,2024-06-17,2024-06-18,1,Completed
+EMP0216,HR,System Access,2024-06-18,2024-06-24,6,Completed
+EMP0217,Operations,Document Submission,2023-02-10,2023-02-13,3,Completed
+EMP0217,Operations,IT Setup,2023-02-13,2023-02-20,7,Completed
+EMP0217,Operations,Training,2023-02-20,2023-02-21,1,Completed
+EMP0217,Operations,Manager Briefing,2023-02-21,2023-02-23,2,Completed
+EMP0217,Operations,System Access,2023-02-23,2023-03-03,8,Completed
+EMP0218,HR,Document Submission,2023-10-17,2023-10-21,4,Completed
+EMP0218,HR,IT Setup,2023-10-21,2023-11-03,13,Completed
+EMP0218,HR,Training,2023-11-03,2023-11-04,1,Completed
+EMP0218,HR,Manager Briefing,2023-11-04,2023-11-07,3,Completed
+EMP0218,HR,System Access,2023-11-07,2023-11-14,7,Completed
+EMP0219,Marketing,Document Submission,2023-03-09,2023-03-11,2,Completed
+EMP0219,Marketing,IT Setup,2023-03-11,2023-03-16,5,Completed
+EMP0219,Marketing,Training,2023-03-16,2023-03-20,4,Completed
+EMP0219,Marketing,Manager Briefing,2023-03-20,2023-03-24,4,Completed
+EMP0219,Marketing,System Access,2023-03-24,2023-03-30,6,Completed
+EMP0220,HR,Document Submission,2025-05-22,2025-05-23,1,Completed
+EMP0220,HR,IT Setup,2025-05-23,2025-06-04,12,Completed
+EMP0220,HR,Training,2025-06-04,2025-06-05,1,Completed
+EMP0220,HR,Manager Briefing,2025-06-05,2025-06-07,2,Completed
+EMP0220,HR,System Access,2025-06-07,2025-06-11,4,Completed
+EMP0221,Engineering,Document Submission,2023-05-25,2023-05-26,1,Completed
+EMP0221,Engineering,IT Setup,2023-05-26,2023-05-31,5,Completed
+EMP0221,Engineering,Training,2023-05-31,2023-06-02,2,Completed
+EMP0221,Engineering,Manager Briefing,2023-06-02,2023-06-04,2,Completed
+EMP0221,Engineering,System Access,2023-06-04,2023-06-10,6,Completed
+EMP0222,Sales,Document Submission,2025-08-18,2025-08-22,4,Completed
+EMP0222,Sales,IT Setup,2025-08-22,2025-09-01,10,Completed
+EMP0222,Sales,Training,2025-09-01,2025-09-02,1,Completed
+EMP0222,Sales,Manager Briefing,2025-09-02,2025-09-05,3,Completed
+EMP0222,Sales,System Access,2025-09-05,2025-09-09,4,Completed
+EMP0223,Marketing,Document Submission,2024-06-04,2024-06-05,1,Completed
+EMP0223,Marketing,IT Setup,2024-06-05,2024-06-11,6,Completed
+EMP0223,Marketing,Training,2024-06-11,2024-06-13,2,Completed
+EMP0223,Marketing,Manager Briefing,2024-06-13,2024-06-17,4,Completed
+EMP0223,Marketing,System Access,2024-06-17,2024-06-22,5,Completed
+EMP0224,Sales,Document Submission,2025-02-23,2025-02-24,1,Completed
+EMP0224,Sales,IT Setup,2025-02-24,2025-03-06,10,Completed
+EMP0224,Sales,Training,2025-03-06,2025-03-07,1,Completed
+EMP0224,Sales,Manager Briefing,2025-03-07,2025-03-08,1,Completed
+EMP0224,Sales,System Access,2025-03-08,2025-03-18,10,Completed
+EMP0225,Engineering,Document Submission,2025-03-18,2025-03-19,1,Completed
+EMP0225,Engineering,IT Setup,2025-03-19,2025-03-26,7,Completed
+EMP0225,Engineering,Training,2025-03-26,2025-03-30,4,Completed
+EMP0225,Engineering,Manager Briefing,2025-03-30,2025-04-03,4,Completed
+EMP0225,Engineering,System Access,2025-04-03,2025-04-13,10,Completed
+EMP0226,Operations,Document Submission,2023-06-16,2023-06-17,1,Completed
+EMP0226,Operations,IT Setup,2023-06-17,2023-06-28,11,Completed
+EMP0226,Operations,Training,2023-06-28,2023-07-02,4,Completed
+EMP0226,Operations,Manager Briefing,2023-07-02,2023-07-04,2,Completed
+EMP0226,Operations,System Access,2023-07-04,2023-07-12,8,Completed
+EMP0227,Engineering,Document Submission,2024-11-23,2024-11-25,2,Completed
+EMP0227,Engineering,IT Setup,2024-11-25,2024-12-02,7,Completed
+EMP0227,Engineering,Training,2024-12-02,2024-12-05,3,Completed
+EMP0227,Engineering,Manager Briefing,2024-12-05,2024-12-08,3,Completed
+EMP0227,Engineering,System Access,2024-12-08,2024-12-18,10,Completed
+EMP0228,Marketing,Document Submission,2023-08-28,2023-08-30,2,Completed
+EMP0228,Marketing,IT Setup,2023-08-30,2023-09-04,5,Completed
+EMP0228,Marketing,Training,2023-09-04,2023-09-06,2,Completed
+EMP0228,Marketing,Manager Briefing,2023-09-06,2023-09-09,3,Completed
+EMP0228,Marketing,System Access,2023-09-09,2023-09-19,10,Completed
+EMP0229,HR,Document Submission,2024-08-07,2024-08-11,4,Completed
+EMP0229,HR,IT Setup,2024-08-11,2024-08-24,13,Completed
+EMP0229,HR,Training,2024-08-24,2024-08-28,4,Completed
+EMP0229,HR,Manager Briefing,2024-08-28,2024-08-29,1,Completed
+EMP0229,HR,System Access,2024-08-29,2024-09-02,4,Completed
+EMP0230,Finance,Document Submission,2024-03-04,2024-03-07,3,Completed
+EMP0230,Finance,IT Setup,2024-03-07,2024-03-18,11,Completed
+EMP0230,Finance,Training,2024-03-18,2024-03-20,2,Completed
+EMP0230,Finance,Manager Briefing,2024-03-20,2024-03-24,4,Completed
+EMP0230,Finance,System Access,2024-03-24,2024-03-30,6,Completed
+EMP0231,HR,Document Submission,2024-05-07,2024-05-09,2,Completed
+EMP0231,HR,IT Setup,2024-05-09,2024-05-24,15,Completed
+EMP0231,HR,Training,2024-05-24,2024-05-25,1,Completed
+EMP0231,HR,Manager Briefing,2024-05-25,2024-05-29,4,Completed
+EMP0231,HR,System Access,2024-05-29,2024-06-06,8,Completed
+EMP0232,HR,Document Submission,2023-06-14,2023-06-18,4,Completed
+EMP0232,HR,IT Setup,2023-06-18,2023-07-01,13,Completed
+EMP0232,HR,Training,2023-07-01,2023-07-05,4,Completed
+EMP0232,HR,Manager Briefing,2023-07-05,2023-07-08,3,Completed
+EMP0232,HR,System Access,2023-07-08,2023-07-16,8,Completed
+EMP0233,Finance,Document Submission,2025-08-10,2025-08-14,4,Completed
+EMP0233,Finance,IT Setup,2025-08-14,2025-08-23,9,Completed
+EMP0233,Finance,Training,2025-08-23,2025-08-25,2,Completed
+EMP0233,Finance,Manager Briefing,2025-08-25,2025-08-26,1,Completed
+EMP0233,Finance,System Access,2025-08-26,2025-09-03,8,Completed
+EMP0234,Finance,Document Submission,2024-01-19,2024-01-21,2,Completed
+EMP0234,Finance,IT Setup,2024-01-21,2024-01-26,5,Completed
+EMP0234,Finance,Training,2024-01-26,2024-01-29,3,Completed
+EMP0234,Finance,Manager Briefing,2024-01-29,2024-01-30,1,Completed
+EMP0234,Finance,System Access,2024-01-30,2024-02-09,10,Completed
+EMP0235,Sales,Document Submission,2023-10-21,2023-10-24,3,Completed
+EMP0235,Sales,IT Setup,2023-10-24,2023-11-07,14,Completed
+EMP0235,Sales,Training,2023-11-07,2023-11-09,2,Completed
+EMP0235,Sales,Manager Briefing,2023-11-09,2023-11-11,2,Completed
+EMP0235,Sales,System Access,2023-11-11,2023-11-15,4,Completed
+EMP0236,Marketing,Document Submission,2024-09-22,2024-09-24,2,Completed
+EMP0236,Marketing,IT Setup,2024-09-24,2024-10-09,15,Completed
+EMP0236,Marketing,Training,2024-10-09,2024-10-11,2,Completed
+EMP0236,Marketing,Manager Briefing,2024-10-11,2024-10-14,3,Completed
+EMP0236,Marketing,System Access,2024-10-14,2024-10-17,3,Completed
+EMP0237,Operations,Document Submission,2024-09-15,2024-09-17,2,Completed
+EMP0237,Operations,IT Setup,2024-09-17,2024-10-01,14,Completed
+EMP0237,Operations,Training,2024-10-01,2024-10-05,4,Completed
+EMP0237,Operations,Manager Briefing,2024-10-05,2024-10-08,3,Completed
+EMP0237,Operations,System Access,2024-10-08,2024-10-13,5,Completed
+EMP0238,Sales,Document Submission,2023-02-18,2023-02-20,2,Completed
+EMP0238,Sales,IT Setup,2023-02-20,2023-02-28,8,Completed
+EMP0238,Sales,Training,2023-02-28,2023-03-03,3,Completed
+EMP0238,Sales,Manager Briefing,2023-03-03,2023-03-06,3,Completed
+EMP0238,Sales,System Access,2023-03-06,2023-03-09,3,Completed
+EMP0239,Finance,Document Submission,2023-01-17,2023-01-20,3,Completed
+EMP0239,Finance,IT Setup,2023-01-20,2023-02-03,14,Completed
+EMP0239,Finance,Training,2023-02-03,2023-02-05,2,Completed
+EMP0239,Finance,Manager Briefing,2023-02-05,2023-02-07,2,Completed
+EMP0239,Finance,System Access,2023-02-07,2023-02-17,10,Completed
+EMP0240,HR,Document Submission,2024-09-21,2024-09-24,3,Completed
+EMP0240,HR,IT Setup,2024-09-24,2024-10-01,7,Completed
+EMP0240,HR,Training,2024-10-01,2024-10-05,4,Completed
+EMP0240,HR,Manager Briefing,2024-10-05,2024-10-06,1,Completed
+EMP0240,HR,System Access,2024-10-06,2024-10-10,4,Completed
+EMP0241,Marketing,Document Submission,2024-06-20,2024-06-21,1,Completed
+EMP0241,Marketing,IT Setup,2024-06-21,2024-06-29,8,Completed
+EMP0241,Marketing,Training,2024-06-29,2024-07-01,2,Completed
+EMP0241,Marketing,Manager Briefing,2024-07-01,2024-07-02,1,Completed
+EMP0241,Marketing,System Access,2024-07-02,2024-07-12,10,Completed
+EMP0242,Finance,Document Submission,2023-02-14,2023-02-15,1,Completed
+EMP0242,Finance,IT Setup,2023-02-15,2023-02-25,10,Completed
+EMP0242,Finance,Training,2023-02-25,2023-02-27,2,Completed
+EMP0242,Finance,Manager Briefing,2023-02-27,2023-03-01,2,Completed
+EMP0242,Finance,System Access,2023-03-01,2023-03-09,8,Completed
+EMP0243,HR,Document Submission,2023-12-20,2023-12-22,2,Completed
+EMP0243,HR,IT Setup,2023-12-22,2024-01-01,10,Completed
+EMP0243,HR,Training,2024-01-01,2024-01-02,1,Completed
+EMP0243,HR,Manager Briefing,2024-01-02,2024-01-03,1,Completed
+EMP0243,HR,System Access,2024-01-03,2024-01-08,5,Completed
+EMP0244,Sales,Document Submission,2024-07-13,2024-07-15,2,Completed
+EMP0244,Sales,IT Setup,2024-07-15,2024-07-21,6,Completed
+EMP0244,Sales,Training,2024-07-21,2024-07-24,3,Completed
+EMP0244,Sales,Manager Briefing,2024-07-24,2024-07-25,1,Completed
+EMP0244,Sales,System Access,2024-07-25,2024-08-02,8,Completed
+EMP0245,Marketing,Document Submission,2023-05-19,2023-05-23,4,Completed
+EMP0245,Marketing,IT Setup,2023-05-23,2023-06-06,14,Completed
+EMP0245,Marketing,Training,2023-06-06,2023-06-07,1,Completed
+EMP0245,Marketing,Manager Briefing,2023-06-07,2023-06-10,3,Completed
+EMP0245,Marketing,System Access,2023-06-10,2023-06-17,7,Completed
+EMP0246,Engineering,Document Submission,2025-06-26,2025-06-29,3,Completed
+EMP0246,Engineering,IT Setup,2025-06-29,2025-07-06,7,Completed
+EMP0246,Engineering,Training,2025-07-06,2025-07-08,2,Completed
+EMP0246,Engineering,Manager Briefing,2025-07-08,2025-07-12,4,Completed
+EMP0246,Engineering,System Access,2025-07-12,2025-07-22,10,Completed
+EMP0247,HR,Document Submission,2024-10-24,2024-10-27,3,Completed
+EMP0247,HR,IT Setup,2024-10-27,2024-11-03,7,Completed
+EMP0247,HR,Training,2024-11-03,2024-11-06,3,Completed
+EMP0247,HR,Manager Briefing,2024-11-06,2024-11-08,2,Completed
+EMP0247,HR,System Access,2024-11-08,2024-11-13,5,Completed
+EMP0248,HR,Document Submission,2024-01-12,2024-01-16,4,Completed
+EMP0248,HR,IT Setup,2024-01-16,2024-01-25,9,Completed
+EMP0248,HR,Training,2024-01-25,2024-01-28,3,Completed
+EMP0248,HR,Manager Briefing,2024-01-28,2024-01-30,2,Completed
+EMP0248,HR,System Access,2024-01-30,2024-02-04,5,Completed
+EMP0249,Finance,Document Submission,2023-07-11,2023-07-12,1,Completed
+EMP0249,Finance,IT Setup,2023-07-12,2023-07-26,14,Completed
+EMP0249,Finance,Training,2023-07-26,2023-07-30,4,Completed
+EMP0249,Finance,Manager Briefing,2023-07-30,2023-07-31,1,Completed
+EMP0249,Finance,System Access,2023-07-31,2023-08-05,5,Completed
+EMP0250,Engineering,Document Submission,2023-03-22,2023-03-25,3,Completed
+EMP0250,Engineering,IT Setup,2023-03-25,2023-04-08,14,Completed
+EMP0250,Engineering,Training,2023-04-08,2023-04-10,2,Completed
+EMP0250,Engineering,Manager Briefing,2023-04-10,2023-04-11,1,Completed
+EMP0250,Engineering,System Access,2023-04-11,2023-04-21,10,Completed
+EMP0251,HR,Document Submission,2023-12-02,2023-12-04,2,Completed
+EMP0251,HR,IT Setup,2023-12-04,2023-12-14,10,Completed
+EMP0251,HR,Training,2023-12-14,2023-12-15,1,Completed
+EMP0251,HR,Manager Briefing,2023-12-15,2023-12-17,2,Completed
+EMP0251,HR,System Access,2023-12-17,2023-12-25,8,Completed
+EMP0252,Sales,Document Submission,2023-12-26,2023-12-29,3,Completed
+EMP0252,Sales,IT Setup,2023-12-29,2024-01-05,7,Completed
+EMP0252,Sales,Training,2024-01-05,2024-01-06,1,Completed
+EMP0252,Sales,Manager Briefing,2024-01-06,2024-01-09,3,Completed
+EMP0252,Sales,System Access,2024-01-09,2024-01-19,10,Completed
+EMP0253,HR,Document Submission,2025-03-21,2025-03-22,1,Completed
+EMP0253,HR,IT Setup,2025-03-22,2025-03-31,9,Completed
+EMP0253,HR,Training,2025-03-31,2025-04-02,2,Completed
+EMP0253,HR,Manager Briefing,2025-04-02,2025-04-04,2,Completed
+EMP0253,HR,System Access,2025-04-04,2025-04-08,4,Completed
+EMP0254,HR,Document Submission,2025-02-06,2025-02-09,3,Completed
+EMP0254,HR,IT Setup,2025-02-09,2025-02-18,9,Completed
+EMP0254,HR,Training,2025-02-18,2025-02-19,1,Completed
+EMP0254,HR,Manager Briefing,2025-02-19,2025-02-20,1,Completed
+EMP0254,HR,System Access,2025-02-20,2025-02-23,3,Completed
+EMP0255,Engineering,Document Submission,2023-08-30,2023-09-03,4,Completed
+EMP0255,Engineering,IT Setup,2023-09-03,2023-09-15,12,Completed
+EMP0255,Engineering,Training,2023-09-15,2023-09-19,4,Completed
+EMP0255,Engineering,Manager Briefing,2023-09-19,2023-09-21,2,Completed
+EMP0255,Engineering,System Access,2023-09-21,2023-09-30,9,Completed
+EMP0256,Operations,Document Submission,2023-06-07,2023-06-11,4,Completed
+EMP0256,Operations,IT Setup,2023-06-11,2023-06-22,11,Completed
+EMP0256,Operations,Training,2023-06-22,2023-06-25,3,Completed
+EMP0256,Operations,Manager Briefing,2023-06-25,2023-06-29,4,Completed
+EMP0256,Operations,System Access,2023-06-29,2023-07-03,4,Completed
+EMP0257,Engineering,Document Submission,2024-06-26,2024-06-30,4,Completed
+EMP0257,Engineering,IT Setup,2024-06-30,2024-07-14,14,Completed
+EMP0257,Engineering,Training,2024-07-14,2024-07-16,2,Completed
+EMP0257,Engineering,Manager Briefing,2024-07-16,2024-07-18,2,Completed
+EMP0257,Engineering,System Access,2024-07-18,2024-07-28,10,Completed
+EMP0258,Sales,Document Submission,2023-01-27,2023-01-28,1,Completed
+EMP0258,Sales,IT Setup,2023-01-28,2023-02-02,5,Completed
+EMP0258,Sales,Training,2023-02-02,2023-02-05,3,Completed
+EMP0258,Sales,Manager Briefing,2023-02-05,2023-02-06,1,Completed
+EMP0258,Sales,System Access,2023-02-06,2023-02-14,8,Completed
+EMP0259,Operations,Document Submission,2025-03-04,2025-03-07,3,Completed
+EMP0259,Operations,IT Setup,2025-03-07,2025-03-13,6,Completed
+EMP0259,Operations,Training,2025-03-13,2025-03-14,1,Completed
+EMP0259,Operations,Manager Briefing,2025-03-14,2025-03-17,3,Completed
+EMP0259,Operations,System Access,2025-03-17,2025-03-22,5,Completed
+EMP0260,Sales,Document Submission,2025-05-23,2025-05-27,4,Completed
+EMP0260,Sales,IT Setup,2025-05-27,2025-06-03,7,Completed
+EMP0260,Sales,Training,2025-06-03,2025-06-04,1,Completed
+EMP0260,Sales,Manager Briefing,2025-06-04,2025-06-05,1,Completed
+EMP0260,Sales,System Access,2025-06-05,2025-06-13,8,Completed
+EMP0261,Marketing,Document Submission,2023-03-08,2023-03-12,4,Completed
+EMP0261,Marketing,IT Setup,2023-03-12,2023-03-17,5,Completed
+EMP0261,Marketing,Training,2023-03-17,2023-03-21,4,Completed
+EMP0261,Marketing,Manager Briefing,2023-03-21,2023-03-23,2,Completed
+EMP0261,Marketing,System Access,2023-03-23,2023-04-01,9,Completed
+EMP0262,Marketing,Document Submission,2024-12-18,2024-12-20,2,Completed
+EMP0262,Marketing,IT Setup,2024-12-20,2024-12-25,5,Completed
+EMP0262,Marketing,Training,2024-12-25,2024-12-26,1,Completed
+EMP0262,Marketing,Manager Briefing,2024-12-26,2024-12-29,3,Completed
+EMP0262,Marketing,System Access,2024-12-29,2025-01-04,6,Completed
+EMP0263,Engineering,Document Submission,2025-03-22,2025-03-24,2,Completed
+EMP0263,Engineering,IT Setup,2025-03-24,2025-04-04,11,Completed
+EMP0263,Engineering,Training,2025-04-04,2025-04-07,3,Completed
+EMP0263,Engineering,Manager Briefing,2025-04-07,2025-04-10,3,Completed
+EMP0263,Engineering,System Access,2025-04-10,2025-04-17,7,Completed
+EMP0264,Finance,Document Submission,2024-07-18,2024-07-20,2,Completed
+EMP0264,Finance,IT Setup,2024-07-20,2024-07-26,6,Completed
+EMP0264,Finance,Training,2024-07-26,2024-07-27,1,Completed
+EMP0264,Finance,Manager Briefing,2024-07-27,2024-07-31,4,Completed
+EMP0264,Finance,System Access,2024-07-31,2024-08-10,10,Completed
+EMP0265,Marketing,Document Submission,2024-06-22,2024-06-24,2,Completed
+EMP0265,Marketing,IT Setup,2024-06-24,2024-06-29,5,Completed
+EMP0265,Marketing,Training,2024-06-29,2024-07-02,3,Completed
+EMP0265,Marketing,Manager Briefing,2024-07-02,2024-07-03,1,Completed
+EMP0265,Marketing,System Access,2024-07-03,2024-07-12,9,Completed
+EMP0266,Sales,Document Submission,2024-10-19,2024-10-20,1,Completed
+EMP0266,Sales,IT Setup,2024-10-20,2024-10-29,9,Completed
+EMP0266,Sales,Training,2024-10-29,2024-11-02,4,Completed
+EMP0266,Sales,Manager Briefing,2024-11-02,2024-11-04,2,Completed
+EMP0266,Sales,System Access,2024-11-04,2024-11-08,4,Completed
+EMP0267,Operations,Document Submission,2023-07-06,2023-07-07,1,Completed
+EMP0267,Operations,IT Setup,2023-07-07,2023-07-15,8,Completed
+EMP0267,Operations,Training,2023-07-15,2023-07-17,2,Completed
+EMP0267,Operations,Manager Briefing,2023-07-17,2023-07-20,3,Completed
+EMP0267,Operations,System Access,2023-07-20,2023-07-24,4,Completed
+EMP0268,Engineering,Document Submission,2023-11-08,2023-11-12,4,Completed
+EMP0268,Engineering,IT Setup,2023-11-12,2023-11-18,6,Completed
+EMP0268,Engineering,Training,2023-11-18,2023-11-21,3,Completed
+EMP0268,Engineering,Manager Briefing,2023-11-21,2023-11-25,4,Completed
+EMP0268,Engineering,System Access,2023-11-25,2023-12-05,10,Completed
+EMP0269,Engineering,Document Submission,2024-10-12,2024-10-16,4,Completed
+EMP0269,Engineering,IT Setup,2024-10-16,2024-10-31,15,Completed
+EMP0269,Engineering,Training,2024-10-31,2024-11-03,3,Completed
+EMP0269,Engineering,Manager Briefing,2024-11-03,2024-11-04,1,Completed
+EMP0269,Engineering,System Access,2024-11-04,2024-11-13,9,Completed
+EMP0270,Operations,Document Submission,2024-05-29,2024-05-31,2,Completed
+EMP0270,Operations,IT Setup,2024-05-31,2024-06-10,10,Completed
+EMP0270,Operations,Training,2024-06-10,2024-06-14,4,Completed
+EMP0270,Operations,Manager Briefing,2024-06-14,2024-06-17,3,Completed
+EMP0270,Operations,System Access,2024-06-17,2024-06-22,5,Completed
+EMP0271,Sales,Document Submission,2025-01-07,2025-01-11,4,Completed
+EMP0271,Sales,IT Setup,2025-01-11,2025-01-16,5,Completed
+EMP0271,Sales,Training,2025-01-16,2025-01-19,3,Completed
+EMP0271,Sales,Manager Briefing,2025-01-19,2025-01-23,4,Completed
+EMP0271,Sales,System Access,2025-01-23,2025-02-02,10,Completed
+EMP0272,Engineering,Document Submission,2025-08-29,2025-09-01,3,Completed
+EMP0272,Engineering,IT Setup,2025-09-01,2025-09-09,8,Completed
+EMP0272,Engineering,Training,2025-09-09,2025-09-12,3,Completed
+EMP0272,Engineering,Manager Briefing,2025-09-12,2025-09-13,1,Completed
+EMP0272,Engineering,System Access,2025-09-13,2025-09-18,5,Completed
+EMP0273,Operations,Document Submission,2024-10-16,2024-10-17,1,Completed
+EMP0273,Operations,IT Setup,2024-10-17,2024-10-23,6,Completed
+EMP0273,Operations,Training,2024-10-23,2024-10-26,3,Completed
+EMP0273,Operations,Manager Briefing,2024-10-26,2024-10-30,4,Completed
+EMP0273,Operations,System Access,2024-10-30,2024-11-05,6,Completed
+EMP0274,Finance,Document Submission,2025-04-06,2025-04-07,1,Completed
+EMP0274,Finance,IT Setup,2025-04-07,2025-04-18,11,Completed
+EMP0274,Finance,Training,2025-04-18,2025-04-22,4,Completed
+EMP0274,Finance,Manager Briefing,2025-04-22,2025-04-26,4,Completed
+EMP0274,Finance,System Access,2025-04-26,2025-05-02,6,Completed
+EMP0275,Marketing,Document Submission,2024-03-26,2024-03-30,4,Completed
+EMP0275,Marketing,IT Setup,2024-03-30,2024-04-08,9,Completed
+EMP0275,Marketing,Training,2024-04-08,2024-04-09,1,Completed
+EMP0275,Marketing,Manager Briefing,2024-04-09,2024-04-13,4,Completed
+EMP0275,Marketing,System Access,2024-04-13,2024-04-16,3,Completed
+EMP0276,Operations,Document Submission,2025-06-01,2025-06-03,2,Completed
+EMP0276,Operations,IT Setup,2025-06-03,2025-06-09,6,Completed
+EMP0276,Operations,Training,2025-06-09,2025-06-13,4,Completed
+EMP0276,Operations,Manager Briefing,2025-06-13,2025-06-15,2,Completed
+EMP0276,Operations,System Access,2025-06-15,2025-06-20,5,Completed
+EMP0277,HR,Document Submission,2023-04-19,2023-04-21,2,Completed
+EMP0277,HR,IT Setup,2023-04-21,2023-04-29,8,Completed
+EMP0277,HR,Training,2023-04-29,2023-05-01,2,Completed
+EMP0277,HR,Manager Briefing,2023-05-01,2023-05-02,1,Completed
+EMP0277,HR,System Access,2023-05-02,2023-05-11,9,Completed
+EMP0278,Finance,Document Submission,2023-04-10,2023-04-11,1,Completed
+EMP0278,Finance,IT Setup,2023-04-11,2023-04-26,15,Completed
+EMP0278,Finance,Training,2023-04-26,2023-04-30,4,Completed
+EMP0278,Finance,Manager Briefing,2023-04-30,2023-05-02,2,Completed
+EMP0278,Finance,System Access,2023-05-02,2023-05-07,5,Completed
+EMP0279,HR,Document Submission,2025-01-08,2025-01-11,3,Completed
+EMP0279,HR,IT Setup,2025-01-11,2025-01-21,10,Completed
+EMP0279,HR,Training,2025-01-21,2025-01-22,1,Completed
+EMP0279,HR,Manager Briefing,2025-01-22,2025-01-23,1,Completed
+EMP0279,HR,System Access,2025-01-23,2025-02-01,9,Completed
+EMP0280,Finance,Document Submission,2024-05-24,2024-05-28,4,Completed
+EMP0280,Finance,IT Setup,2024-05-28,2024-06-10,13,Completed
+EMP0280,Finance,Training,2024-06-10,2024-06-13,3,Completed
+EMP0280,Finance,Manager Briefing,2024-06-13,2024-06-16,3,Completed
+EMP0280,Finance,System Access,2024-06-16,2024-06-26,10,Completed
+EMP0281,Operations,Document Submission,2023-02-21,2023-02-22,1,Completed
+EMP0281,Operations,IT Setup,2023-02-22,2023-03-08,14,Completed
+EMP0281,Operations,Training,2023-03-08,2023-03-12,4,Completed
+EMP0281,Operations,Manager Briefing,2023-03-12,2023-03-13,1,Completed
+EMP0281,Operations,System Access,2023-03-13,2023-03-22,9,Completed
+EMP0282,HR,Document Submission,2025-05-17,2025-05-19,2,Completed
+EMP0282,HR,IT Setup,2025-05-19,2025-05-26,7,Completed
+EMP0282,HR,Training,2025-05-26,2025-05-27,1,Completed
+EMP0282,HR,Manager Briefing,2025-05-27,2025-05-28,1,Completed
+EMP0282,HR,System Access,2025-05-28,2025-06-01,4,Completed
+EMP0283,HR,Document Submission,2023-02-22,2023-02-25,3,Completed
+EMP0283,HR,IT Setup,2023-02-25,2023-03-10,13,Completed
+EMP0283,HR,Training,2023-03-10,2023-03-13,3,Completed
+EMP0283,HR,Manager Briefing,2023-03-13,2023-03-17,4,Completed
+EMP0283,HR,System Access,2023-03-17,2023-03-24,7,Completed
+EMP0284,Engineering,Document Submission,2024-04-06,2024-04-10,4,Completed
+EMP0284,Engineering,IT Setup,2024-04-10,2024-04-25,15,Completed
+EMP0284,Engineering,Training,2024-04-25,2024-04-29,4,Completed
+EMP0284,Engineering,Manager Briefing,2024-04-29,2024-05-03,4,Completed
+EMP0284,Engineering,System Access,2024-05-03,2024-05-06,3,Completed
+EMP0285,Sales,Document Submission,2024-02-08,2024-02-10,2,Completed
+EMP0285,Sales,IT Setup,2024-02-10,2024-02-19,9,Completed
+EMP0285,Sales,Training,2024-02-19,2024-02-23,4,Completed
+EMP0285,Sales,Manager Briefing,2024-02-23,2024-02-25,2,Completed
+EMP0285,Sales,System Access,2024-02-25,2024-03-05,9,Completed
+EMP0286,Sales,Document Submission,2024-06-05,2024-06-06,1,Completed
+EMP0286,Sales,IT Setup,2024-06-06,2024-06-17,11,Completed
+EMP0286,Sales,Training,2024-06-17,2024-06-20,3,Completed
+EMP0286,Sales,Manager Briefing,2024-06-20,2024-06-22,2,Completed
+EMP0286,Sales,System Access,2024-06-22,2024-06-25,3,Completed
+EMP0287,Sales,Document Submission,2025-04-03,2025-04-07,4,Completed
+EMP0287,Sales,IT Setup,2025-04-07,2025-04-16,9,Completed
+EMP0287,Sales,Training,2025-04-16,2025-04-19,3,Completed
+EMP0287,Sales,Manager Briefing,2025-04-19,2025-04-20,1,Completed
+EMP0287,Sales,System Access,2025-04-20,2025-04-28,8,Completed
+EMP0288,HR,Document Submission,2023-11-23,2023-11-26,3,Completed
+EMP0288,HR,IT Setup,2023-11-26,2023-12-05,9,Completed
+EMP0288,HR,Training,2023-12-05,2023-12-08,3,Completed
+EMP0288,HR,Manager Briefing,2023-12-08,2023-12-12,4,Completed
+EMP0288,HR,System Access,2023-12-12,2023-12-16,4,Completed
+EMP0289,Operations,Document Submission,2024-06-29,2024-07-01,2,Completed
+EMP0289,Operations,IT Setup,2024-07-01,2024-07-08,7,Completed
+EMP0289,Operations,Training,2024-07-08,2024-07-11,3,Completed
+EMP0289,Operations,Manager Briefing,2024-07-11,2024-07-15,4,Completed
+EMP0289,Operations,System Access,2024-07-15,2024-07-23,8,Completed
+EMP0290,Engineering,Document Submission,2024-11-20,2024-11-23,3,Completed
+EMP0290,Engineering,IT Setup,2024-11-23,2024-12-04,11,Completed
+EMP0290,Engineering,Training,2024-12-04,2024-12-05,1,Completed
+EMP0290,Engineering,Manager Briefing,2024-12-05,2024-12-07,2,Completed
+EMP0290,Engineering,System Access,2024-12-07,2024-12-17,10,Completed
+EMP0291,Operations,Document Submission,2024-11-02,2024-11-04,2,Completed
+EMP0291,Operations,IT Setup,2024-11-04,2024-11-15,11,Completed
+EMP0291,Operations,Training,2024-11-15,2024-11-19,4,Completed
+EMP0291,Operations,Manager Briefing,2024-11-19,2024-11-22,3,Completed
+EMP0291,Operations,System Access,2024-11-22,2024-11-25,3,Completed
+EMP0292,Marketing,Document Submission,2024-05-06,2024-05-08,2,Completed
+EMP0292,Marketing,IT Setup,2024-05-08,2024-05-14,6,Completed
+EMP0292,Marketing,Training,2024-05-14,2024-05-17,3,Completed
+EMP0292,Marketing,Manager Briefing,2024-05-17,2024-05-21,4,Completed
+EMP0292,Marketing,System Access,2024-05-21,2024-05-26,5,Completed
+EMP0293,Sales,Document Submission,2023-11-18,2023-11-19,1,Completed
+EMP0293,Sales,IT Setup,2023-11-19,2023-11-26,7,Completed
+EMP0293,Sales,Training,2023-11-26,2023-11-28,2,Completed
+EMP0293,Sales,Manager Briefing,2023-11-28,2023-11-30,2,Completed
+EMP0293,Sales,System Access,2023-11-30,2023-12-03,3,Completed
+EMP0294,Finance,Document Submission,2024-09-18,2024-09-20,2,Completed
+EMP0294,Finance,IT Setup,2024-09-20,2024-09-25,5,Completed
+EMP0294,Finance,Training,2024-09-25,2024-09-29,4,Completed
+EMP0294,Finance,Manager Briefing,2024-09-29,2024-09-30,1,Completed
+EMP0294,Finance,System Access,2024-09-30,2024-10-08,8,Completed
+EMP0295,Operations,Document Submission,2023-11-29,2023-12-01,2,Completed
+EMP0295,Operations,IT Setup,2023-12-01,2023-12-10,9,Completed
+EMP0295,Operations,Training,2023-12-10,2023-12-13,3,Completed
+EMP0295,Operations,Manager Briefing,2023-12-13,2023-12-17,4,Completed
+EMP0295,Operations,System Access,2023-12-17,2023-12-26,9,Completed
+EMP0296,HR,Document Submission,2024-04-15,2024-04-16,1,Completed
+EMP0296,HR,IT Setup,2024-04-16,2024-05-01,15,Completed
+EMP0296,HR,Training,2024-05-01,2024-05-02,1,Completed
+EMP0296,HR,Manager Briefing,2024-05-02,2024-05-04,2,Completed
+EMP0296,HR,System Access,2024-05-04,2024-05-12,8,Completed
+EMP0297,Marketing,Document Submission,2025-01-08,2025-01-12,4,Completed
+EMP0297,Marketing,IT Setup,2025-01-12,2025-01-26,14,Completed
+EMP0297,Marketing,Training,2025-01-26,2025-01-30,4,Completed
+EMP0297,Marketing,Manager Briefing,2025-01-30,2025-02-01,2,Completed
+EMP0297,Marketing,System Access,2025-02-01,2025-02-11,10,Completed
+EMP0298,Sales,Document Submission,2023-10-13,2023-10-16,3,Completed
+EMP0298,Sales,IT Setup,2023-10-16,2023-10-26,10,Completed
+EMP0298,Sales,Training,2023-10-26,2023-10-28,2,Completed
+EMP0298,Sales,Manager Briefing,2023-10-28,2023-10-31,3,Completed
+EMP0298,Sales,System Access,2023-10-31,2023-11-04,4,Completed
+EMP0299,Marketing,Document Submission,2024-12-22,2024-12-25,3,Completed
+EMP0299,Marketing,IT Setup,2024-12-25,2024-12-30,5,Completed
+EMP0299,Marketing,Training,2024-12-30,2025-01-03,4,Completed
+EMP0299,Marketing,Manager Briefing,2025-01-03,2025-01-04,1,Completed
+EMP0299,Marketing,System Access,2025-01-04,2025-01-09,5,Completed
+EMP0300,HR,Document Submission,2024-11-23,2024-11-25,2,Completed
+EMP0300,HR,IT Setup,2024-11-25,2024-12-03,8,Completed
+EMP0300,HR,Training,2024-12-03,2024-12-05,2,Completed
+EMP0300,HR,Manager Briefing,2024-12-05,2024-12-07,2,Completed
+EMP0300,HR,System Access,2024-12-07,2024-12-14,7,Completed

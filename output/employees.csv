@@ -1,0 +1,301 @@
+employee_id,name,department,job_level,join_date,exit_date,exit_reason,salary,performance,manager_id,location,is_active
+EMP0001,Stephen Nelson,Marketing,Junior,2025-01-29,2025-08-21,Relocation,33358,3.2,EMP0044,HQ,False
+EMP0002,Shannon Carter,Operations,Mid,2023-01-31,2024-08-19,Management Issues,69726,3.2,EMP0002,Remote,False
+EMP0003,Lynn Watkins,Marketing,Senior,2024-07-12,,,84719,3.9,EMP0038,Branch A,True
+EMP0004,Matthew Anderson,Engineering,Senior,2023-06-13,,,81149,4.4,EMP0018,Remote,True
+EMP0005,Chad Williams,Sales,Manager,2023-12-11,2025-04-03,Better Opportunity,116763,3.6,EMP0023,Branch A,False
+EMP0006,Bobby Gonzalez,Engineering,Senior,2024-07-03,2025-10-23,Better Opportunity,88089,3.5,EMP0019,Branch A,False
+EMP0007,Stephanie King,Operations,Junior,2023-03-13,2024-01-30,Personal,39482,3.8,EMP0006,Remote,False
+EMP0008,Barry Lee,Engineering,Mid,2024-04-09,,,61954,3.7,EMP0011,Branch A,True
+EMP0009,Kristen Fleming,HR,Junior,2023-10-01,,,32339,2.8,EMP0039,Remote,True
+EMP0010,Ryan Suarez,Operations,Senior,2023-06-17,,,78845,3.9,EMP0041,Remote,True
+EMP0011,Monica King,Marketing,Mid,2025-02-25,,,57505,3.1,EMP0003,Branch A,True
+EMP0012,Rachael Mason,Finance,Mid,2023-08-05,,,68585,3.1,EMP0046,Branch A,True
+EMP0013,Kim Johnson,Sales,Senior,2024-02-10,,,85035,3.7,EMP0010,Branch A,True
+EMP0014,Benjamin Morrison,Sales,Junior,2024-07-28,,,49155,2.0,EMP0028,Branch B,True
+EMP0015,Brandon Young,HR,Junior,2023-05-22,,,32978,2.1,EMP0049,HQ,True
+EMP0016,Dale Hoffman,Engineering,Junior,2023-06-13,,,43833,2.7,EMP0039,HQ,True
+EMP0017,Maria Goodman,Finance,Mid,2024-04-24,,,68128,2.8,EMP0001,HQ,True
+EMP0018,Shawn Matthews,Marketing,Lead,2025-02-07,,,96146,4.0,EMP0008,Branch A,True
+EMP0019,Jerome Green,Finance,Junior,2023-01-04,,,38630,2.5,EMP0033,Remote,True
+EMP0020,Susan Mitchell,Operations,Lead,2025-06-10,,,101635,3.1,EMP0039,Remote,True
+EMP0021,Mary Keith,Sales,Mid,2023-06-15,,,67378,4.0,EMP0001,Branch A,True
+EMP0022,Ruben Cisneros,Finance,Junior,2025-08-09,,,40076,2.9,EMP0016,HQ,True
+EMP0023,Haley Smith,Sales,Lead,2025-08-27,2026-02-26,Work-Life Balance,87267,3.8,EMP0049,Remote,False
+EMP0024,John Kennedy,Sales,Senior,2025-08-27,,,78685,2.9,EMP0034,Branch B,True
+EMP0025,Michael Clark,Sales,Manager,2025-02-12,,,111591,3.4,EMP0046,Branch A,True
+EMP0026,Olivia Watson,Finance,Manager,2024-10-27,,,121959,3.8,EMP0029,HQ,True
+EMP0027,Lisa Copeland,Sales,Junior,2023-12-13,2025-09-30,Relocation,49282,2.4,EMP0015,HQ,False
+EMP0028,Dawn Phillips,Engineering,Senior,2023-03-02,,,71029,3.8,EMP0022,HQ,True
+EMP0029,Allison Jones,Operations,Junior,2024-11-16,,,47669,2.7,EMP0009,Branch B,True
+EMP0030,James Schneider,Sales,Senior,2025-04-06,,,73090,3.5,EMP0007,Branch B,True
+EMP0031,Melissa Allen,HR,Mid,2024-04-23,,,51775,3.0,EMP0044,HQ,True
+EMP0032,Emily Smith,Engineering,Mid,2023-12-14,,,53580,4.2,EMP0016,Remote,True
+EMP0033,Eric Mccann,Sales,Mid,2023-05-24,,,59127,3.3,EMP0030,Remote,True
+EMP0034,Joshua Turner,Engineering,Mid,2025-06-01,,,53208,2.8,EMP0004,HQ,True
+EMP0035,Bailey Figueroa,Engineering,Manager,2025-05-19,,,118317,4.1,EMP0032,Branch B,True
+EMP0036,James Cortez,Sales,Lead,2025-07-13,2026-01-16,Better Opportunity,97793,3.2,EMP0017,Branch B,False
+EMP0037,Erika Mooney,HR,Mid,2025-01-18,,,68211,3.4,EMP0043,Branch B,True
+EMP0038,Thomas Fields,Sales,Junior,2023-08-11,,,48978,2.0,EMP0048,HQ,True
+EMP0039,Mary Smith,Marketing,Mid,2023-02-21,,,66477,2.6,EMP0034,Remote,True
+EMP0040,Michael Hester,Engineering,Manager,2023-03-24,,,107245,3.8,EMP0039,HQ,True
+EMP0041,Brooke Price,Marketing,Lead,2024-02-18,2025-12-22,Relocation,103970,4.2,EMP0039,HQ,False
+EMP0042,Christopher Perry,Operations,Junior,2024-11-04,,,47130,3.1,EMP0021,Branch A,True
+EMP0043,Emily Morse,Sales,Senior,2023-11-18,2025-03-27,Relocation,79830,3.5,EMP0030,Branch A,False
+EMP0044,Logan Levy,Engineering,Junior,2024-09-28,,,33276,2.8,EMP0005,Remote,True
+EMP0045,Francis Taylor,Operations,Mid,2025-08-13,,,52254,2.6,EMP0016,Branch A,True
+EMP0046,Chad Hooper,HR,Junior,2025-05-03,,,39912,2.6,EMP0040,HQ,True
+EMP0047,Julie Graham,Marketing,Lead,2023-11-03,,,88394,3.6,EMP0009,Branch A,True
+EMP0048,Brandon Garcia,Engineering,Lead,2025-01-30,,,93924,4.3,EMP0019,Remote,True
+EMP0049,Jacob Powell,Marketing,Mid,2024-12-04,,,58650,3.5,EMP0033,Branch B,True
+EMP0050,Matthew Walker,HR,Lead,2025-05-16,2026-01-23,Work-Life Balance,94066,2.9,EMP0003,HQ,False
+EMP0051,Bethany Torres,HR,Senior,2024-10-14,,,75294,3.8,EMP0048,Branch B,True
+EMP0052,Emily Anderson,Operations,Senior,2024-07-28,2024-12-03,Career Growth,74884,3.4,EMP0035,HQ,False
+EMP0053,Rodney Larson,HR,Mid,2023-06-01,,,51370,3.0,EMP0020,Branch A,True
+EMP0054,Kelli Edwards,Engineering,Lead,2023-08-04,,,88368,4.1,EMP0023,Branch B,True
+EMP0055,Cassandra Lopez,Operations,Senior,2025-08-05,,,75324,4.1,EMP0012,Branch B,True
+EMP0056,Ashley Ali,Engineering,Junior,2025-08-04,,,43491,3.5,EMP0043,Remote,True
+EMP0057,Tara Wells,HR,Junior,2024-12-19,2025-04-07,Personal,45423,2.6,EMP0015,Remote,False
+EMP0058,David Simon,Finance,Mid,2025-04-20,,,57457,3.1,EMP0015,HQ,True
+EMP0059,Paul Bender,Marketing,Junior,2023-12-03,2024-05-12,Personal,39146,3.2,EMP0023,Branch B,False
+EMP0060,Christian Garcia,Marketing,Manager,2024-07-03,,,105904,4.2,EMP0008,Branch A,True
+EMP0061,Michelle Garcia,Sales,Mid,2023-09-29,2025-08-29,Work-Life Balance,61327,3.1,EMP0047,Branch A,False
+EMP0062,Jasmine Williams,Finance,Senior,2024-06-07,2025-03-18,Compensation,71454,3.5,EMP0046,Branch B,False
+EMP0063,Brandi Vega,Engineering,Mid,2025-04-05,,,56456,2.7,EMP0024,Branch B,True
+EMP0064,Stephanie Ray,Engineering,Manager,2025-07-31,,,115286,3.1,EMP0043,HQ,True
+EMP0065,Laurie Turner,Marketing,Lead,2024-06-03,,,98382,4.2,EMP0021,Branch B,True
+EMP0066,Victoria Montgomery DDS,Marketing,Mid,2023-05-11,,,62423,4.0,EMP0044,Remote,True
+EMP0067,Jesse Mclean,Operations,Mid,2024-02-20,,,50013,3.3,EMP0020,Branch A,True
+EMP0068,Chad Young,Sales,Mid,2024-08-16,,,60559,3.8,EMP0030,Branch B,True
+EMP0069,Tammy Cook,Finance,Senior,2024-06-07,,,75560,3.8,EMP0043,HQ,True
+EMP0070,Sarah Lewis,HR,Mid,2024-10-10,,,53060,3.0,EMP0049,Remote,True
+EMP0071,Erin Harris,Marketing,Mid,2025-04-05,,,50800,3.5,EMP0003,Remote,True
+EMP0072,Brian Nash,Finance,Senior,2025-02-25,2025-12-24,Career Growth,88863,4.4,EMP0013,Branch B,False
+EMP0073,Kristin Perez,Finance,Mid,2023-06-01,,,50181,3.3,EMP0049,HQ,True
+EMP0074,Ronald Pena,Finance,Junior,2025-04-03,,,46972,3.8,EMP0030,HQ,True
+EMP0075,Michael Fox,Operations,Junior,2025-05-18,2025-09-19,Personal,45225,1.7,EMP0043,Branch A,False
+EMP0076,Jasmine Travis,Finance,Senior,2025-01-06,,,83983,4.0,EMP0036,Branch B,True
+EMP0077,Tammie Powell,Sales,Senior,2024-05-01,,,78101,3.6,EMP0041,Branch A,True
+EMP0078,Matthew Lopez,Operations,Mid,2023-09-02,,,52538,3.2,EMP0046,Branch A,True
+EMP0079,Sharon Duffy,Sales,Mid,2023-11-24,,,52640,3.3,EMP0009,Remote,True
+EMP0080,Damon Mack,Sales,Mid,2023-06-06,,,52104,2.3,EMP0027,Branch B,True
+EMP0081,Anne Johnson,HR,Mid,2024-03-01,2025-08-03,Work-Life Balance,69139,3.2,EMP0045,HQ,False
+EMP0082,Dylan Ortiz,Operations,Mid,2023-01-07,,,59784,3.5,EMP0049,Branch B,True
+EMP0083,James Vasquez,Finance,Mid,2025-01-22,,,69767,4.0,EMP0015,Branch B,True
+EMP0084,Jo Brown,Sales,Mid,2024-05-12,2025-07-20,Career Growth,63248,3.0,EMP0047,Remote,False
+EMP0085,Brittany Phillips,Finance,Lead,2024-09-29,,,97911,3.4,EMP0038,HQ,True
+EMP0086,Catherine Williams,Engineering,Senior,2023-05-19,,,75954,3.3,EMP0004,Branch A,True
+EMP0087,Kenneth Owens,Finance,Mid,2024-04-10,,,62423,3.8,EMP0018,Branch B,True
+EMP0088,Daniel Carter,HR,Lead,2024-04-26,2026-01-28,Better Opportunity,96467,4.0,EMP0015,HQ,False
+EMP0089,Kara Gomez,Marketing,Junior,2023-02-01,,,36532,2.7,EMP0002,Remote,True
+EMP0090,Kayla Wise,Sales,Junior,2024-11-16,2025-06-05,Work-Life Balance,38396,3.3,EMP0050,Branch A,False
+EMP0091,Judy Harris,Sales,Senior,2025-02-04,,,75366,3.6,EMP0020,HQ,True
+EMP0092,Casey Gonzalez,Operations,Junior,2023-11-16,,,42298,3.5,EMP0026,Remote,True
+EMP0093,Amy Olson MD,Engineering,Mid,2025-04-30,,,53339,2.9,EMP0045,Branch A,True
+EMP0094,Edward Vargas,Marketing,Senior,2023-05-04,,,88544,3.4,EMP0003,Branch A,True
+EMP0095,Craig Mitchell,Operations,Mid,2024-01-15,2026-02-06,Compensation,50414,3.1,EMP0027,Branch B,False
+EMP0096,Virginia Thompson,Engineering,Mid,2024-01-06,,,65064,2.6,EMP0046,Remote,True
+EMP0097,Rachel Gill,Finance,Junior,2024-06-18,,,38850,3.1,EMP0040,Branch B,True
+EMP0098,Robert Ortega,Finance,Mid,2025-01-18,,,60561,3.4,EMP0016,HQ,True
+EMP0099,Mary Moore,HR,Lead,2023-09-07,,,103672,3.8,EMP0040,Branch B,True
+EMP0100,Clayton Smith,HR,Junior,2025-05-21,,,45976,2.9,EMP0014,Branch A,True
+EMP0101,Stephen Baker,HR,Mid,2025-06-20,,,59052,2.6,EMP0036,HQ,True
+EMP0102,Karen Castillo,Operations,Manager,2023-03-29,,,118317,3.5,EMP0032,Remote,True
+EMP0103,Melody Pierce,Marketing,Mid,2024-12-29,,,50565,3.1,EMP0006,Branch A,True
+EMP0104,Olivia Fisher,Sales,Mid,2023-09-07,,,69056,2.9,EMP0024,Branch B,True
+EMP0105,Michael Webb,Operations,Mid,2024-03-11,,,68035,3.2,EMP0022,Branch A,True
+EMP0106,Brandi Manning,Marketing,Mid,2023-11-10,,,53953,3.5,EMP0047,Remote,True
+EMP0107,Marc Stephens,HR,Junior,2024-07-02,,,36066,3.9,EMP0013,Remote,True
+EMP0108,Vanessa Mcdonald DDS,Marketing,Mid,2025-01-11,,,67191,3.4,EMP0039,Branch A,True
+EMP0109,Lauren Cochran,Engineering,Lead,2023-10-31,,,90879,3.9,EMP0020,HQ,True
+EMP0110,Lindsay Taylor,Marketing,Mid,2023-10-08,2024-03-01,Management Issues,59572,3.3,EMP0045,Remote,False
+EMP0111,John Juarez,Marketing,Lead,2024-05-17,2024-08-27,Management Issues,94317,2.8,EMP0031,Branch B,False
+EMP0112,Brent Smith,Finance,Mid,2023-02-22,,,65654,3.3,EMP0008,HQ,True
+EMP0113,Laura Carlson,Finance,Mid,2024-08-13,,,51756,3.3,EMP0010,Remote,True
+EMP0114,David Lopez,Operations,Manager,2023-03-29,,,108881,4.9,EMP0036,Branch B,True
+EMP0115,Tracey Simpson,Operations,Mid,2024-09-25,,,67123,3.2,EMP0025,Branch B,True
+EMP0116,Gregory Quinn,Finance,Mid,2024-08-25,,,60006,3.5,EMP0037,HQ,True
+EMP0117,Joseph Floyd,Operations,Manager,2023-04-12,,,111808,3.7,EMP0041,Remote,True
+EMP0118,Lori Miller,HR,Senior,2023-06-10,,,88087,3.0,EMP0005,Remote,True
+EMP0119,Lisa Price,Engineering,Mid,2024-12-06,,,59543,3.9,EMP0003,Remote,True
+EMP0120,Rachel Cole,HR,Senior,2024-12-20,,,72332,4.0,EMP0044,Remote,True
+EMP0121,Richard West,HR,Senior,2024-10-02,,,76482,4.0,EMP0028,HQ,True
+EMP0122,Jennifer Singleton,Operations,Junior,2023-06-02,,,34660,2.5,EMP0005,HQ,True
+EMP0123,Ronnie Leonard,Sales,Senior,2024-09-01,,,88651,4.3,EMP0019,Branch B,True
+EMP0124,Susan Baker,Engineering,Mid,2023-11-08,,,58920,2.6,EMP0033,Branch B,True
+EMP0125,Heather Garza,Finance,Junior,2023-02-10,,,40561,3.3,EMP0039,Branch A,True
+EMP0126,Katherine Yates,Engineering,Junior,2024-11-21,,,48848,4.1,EMP0038,HQ,True
+EMP0127,James Smith,Marketing,Lead,2024-08-13,2025-12-03,Relocation,100417,3.3,EMP0034,Branch B,False
+EMP0128,Barbara Kelley,HR,Junior,2024-08-22,,,46112,2.7,EMP0006,Branch B,True
+EMP0129,Cynthia Costa,HR,Mid,2023-11-25,,,55269,3.3,EMP0022,Branch B,True
+EMP0130,Justin Young,Marketing,Mid,2024-11-09,,,68025,3.0,EMP0003,Branch B,True
+EMP0131,Sean Garza,Engineering,Mid,2023-11-28,2025-04-14,Personal,66862,2.5,EMP0001,Branch B,False
+EMP0132,Tanya Solomon,Finance,Junior,2024-06-14,,,46334,3.0,EMP0041,Branch B,True
+EMP0133,Stephanie Hawkins,Engineering,Junior,2024-07-16,2025-03-10,Work-Life Balance,45883,2.5,EMP0008,HQ,False
+EMP0134,Harry Johnson,Marketing,Senior,2023-09-03,,,80182,3.8,EMP0036,HQ,True
+EMP0135,Linda Roman,Operations,Mid,2023-08-19,,,53717,2.8,EMP0030,HQ,True
+EMP0136,William Hunter,Marketing,Lead,2024-05-25,,,94563,4.6,EMP0033,Branch A,True
+EMP0137,Elizabeth Roberts,Finance,Lead,2024-04-28,,,103063,3.4,EMP0010,Branch B,True
+EMP0138,Daniel Jimenez,Sales,Manager,2024-06-04,,,109473,3.5,EMP0005,Branch A,True
+EMP0139,Stacey Rodriguez,Finance,Mid,2025-03-17,,,50084,3.7,EMP0019,Branch A,True
+EMP0140,Jamie Page,Operations,Mid,2024-11-06,,,54869,2.7,EMP0029,Branch B,True
+EMP0141,Anna Stephens,HR,Mid,2025-02-20,,,64920,3.4,EMP0021,Remote,True
+EMP0142,Anthony Mcdonald,Marketing,Junior,2024-01-28,2025-06-21,Better Opportunity,40426,3.7,EMP0048,Branch B,False
+EMP0143,Felicia Patel,Marketing,Lead,2024-01-26,,,89984,3.0,EMP0032,HQ,True
+EMP0144,Janet Garcia,Sales,Mid,2024-08-27,,,53288,3.4,EMP0029,HQ,True
+EMP0145,Noah Mcintosh,Operations,Lead,2023-01-16,,,98434,3.9,EMP0042,Remote,True
+EMP0146,Eugene Smith,Engineering,Mid,2023-09-29,,,63024,3.7,EMP0042,HQ,True
+EMP0147,Damon Perez,HR,Lead,2025-05-29,,,95376,3.2,EMP0041,Branch B,True
+EMP0148,Lisa Palmer,Operations,Junior,2023-03-12,2025-05-10,Compensation,37454,2.3,EMP0048,HQ,False
+EMP0149,Derek Ballard,Finance,Manager,2025-02-17,,,108293,4.0,EMP0029,Remote,True
+EMP0150,Michael Olsen,Marketing,Mid,2023-01-30,2023-08-22,Compensation,61746,3.4,EMP0024,Branch B,False
+EMP0151,David Ellis,Sales,Junior,2024-02-26,,,35900,3.1,EMP0011,Remote,True
+EMP0152,Justin Young,Engineering,Senior,2024-01-27,,,77891,3.8,EMP0032,Remote,True
+EMP0153,Steven Hardy,Sales,Mid,2023-09-18,,,50307,3.0,EMP0030,Branch A,True
+EMP0154,Tammy Martin,Marketing,Mid,2023-03-17,,,61323,3.4,EMP0038,Branch A,True
+EMP0155,Michael Mcmahon,Marketing,Manager,2024-12-07,,,114899,3.8,EMP0013,Branch B,True
+EMP0156,Gregory Fitzpatrick,Finance,Junior,2024-01-26,,,48835,2.6,EMP0019,Branch A,True
+EMP0157,Jennifer Chan,Engineering,Manager,2024-11-05,,,105265,4.6,EMP0037,HQ,True
+EMP0158,Krystal Daniels,Operations,Senior,2025-05-02,,,79378,3.8,EMP0050,Remote,True
+EMP0159,Sarah Young,Operations,Lead,2023-08-13,,,93212,3.2,EMP0044,Remote,True
+EMP0160,Brenda Clark,Marketing,Junior,2024-10-04,,,40123,3.3,EMP0029,HQ,True
+EMP0161,Sally Watson,Operations,Mid,2023-05-15,2024-06-10,Compensation,63615,2.8,EMP0012,Remote,False
+EMP0162,Zachary Montgomery,Sales,Senior,2025-06-16,,,87394,4.0,EMP0033,Branch A,True
+EMP0163,Anthony Garcia,Sales,Mid,2025-04-24,,,59671,3.9,EMP0048,Branch A,True
+EMP0164,Michael Nelson,Engineering,Mid,2023-03-19,2024-02-03,Personal,63022,2.9,EMP0036,Branch A,False
+EMP0165,Ricky Cook,Engineering,Senior,2023-01-15,,,74049,4.1,EMP0030,Branch A,True
+EMP0166,Mary Hodges,Marketing,Senior,2023-09-26,,,82172,3.8,EMP0007,Remote,True
+EMP0167,Nicole Wall,Finance,Junior,2025-06-24,,,40748,3.4,EMP0040,Remote,True
+EMP0168,Alejandro Powell,Marketing,Junior,2025-04-23,,,39902,3.9,EMP0042,Branch B,True
+EMP0169,Ronald Elliott,Engineering,Junior,2025-08-26,2026-01-26,Better Opportunity,33184,2.9,EMP0016,Remote,False
+EMP0170,Ian Ward,Finance,Mid,2024-11-17,,,67701,2.9,EMP0027,Remote,True
+EMP0171,Nicole Wheeler,Finance,Senior,2025-05-03,,,83373,3.2,EMP0018,HQ,True
+EMP0172,Renee Reyes,Marketing,Mid,2024-03-30,,,57736,2.9,EMP0024,HQ,True
+EMP0173,Kenneth Johnson,Marketing,Mid,2025-07-12,,,61753,3.3,EMP0004,Branch B,True
+EMP0174,Brittany Parker,HR,Junior,2023-05-06,,,44900,3.2,EMP0006,Remote,True
+EMP0175,Richard Rodriguez,Marketing,Senior,2023-01-22,2025-03-05,Relocation,74126,3.7,EMP0037,Remote,False
+EMP0176,Alexander Buckley,Engineering,Lead,2024-07-21,,,92076,4.2,EMP0015,Branch A,True
+EMP0177,Patricia Griffith,Sales,Senior,2024-09-02,2026-02-13,Relocation,74259,3.6,EMP0035,Branch A,False
+EMP0178,Lauren Lewis,Sales,Junior,2025-06-06,2025-09-07,Compensation,37796,3.7,EMP0038,Branch A,False
+EMP0179,Wendy Hill,Engineering,Junior,2023-02-23,2024-07-28,Management Issues,33724,2.9,EMP0048,HQ,False
+EMP0180,Sara Hicks,Finance,Mid,2024-01-06,,,53573,4.7,EMP0029,Remote,True
+EMP0181,Natasha Chaney,Operations,Junior,2025-03-13,,,47086,3.3,EMP0020,Branch B,True
+EMP0182,Jody House,Marketing,Manager,2023-03-04,,,118160,3.3,EMP0028,HQ,True
+EMP0183,Daniel Brooks,Finance,Senior,2024-03-30,2024-09-18,Compensation,89932,3.1,EMP0010,HQ,False
+EMP0184,Melinda Wang,Sales,Mid,2024-10-10,,,60655,3.5,EMP0025,Branch A,True
+EMP0185,Jennifer Khan,Finance,Mid,2024-03-16,2024-10-09,Personal,68066,3.2,EMP0047,Remote,False
+EMP0186,Brian Davis,Finance,Mid,2023-08-22,,,64860,3.7,EMP0026,Branch B,True
+EMP0187,Debra Jimenez,Marketing,Junior,2024-03-13,,,38352,3.2,EMP0024,Remote,True
+EMP0188,Dustin Craig,Marketing,Manager,2023-03-10,2023-09-03,Better Opportunity,119151,3.7,EMP0007,Branch A,False
+EMP0189,Allison Riley,Sales,Mid,2024-08-23,,,68405,2.9,EMP0022,HQ,True
+EMP0190,Shannon Horne,Finance,Mid,2024-11-12,,,63858,2.5,EMP0047,HQ,True
+EMP0191,Ryan Richmond,HR,Senior,2023-12-27,2025-08-27,Relocation,75070,3.4,EMP0043,Branch B,False
+EMP0192,Brendan Ingram,Sales,Lead,2023-12-25,,,97044,4.2,EMP0008,Branch A,True
+EMP0193,Vickie Griffith,Operations,Junior,2024-03-15,,,48243,3.1,EMP0002,Branch A,True
+EMP0194,Joanna Wilson,Engineering,Junior,2024-12-20,,,41135,2.4,EMP0023,HQ,True
+EMP0195,Kevin Wilkerson,Sales,Lead,2024-08-02,,,87280,3.9,EMP0010,HQ,True
+EMP0196,Kelly Le,Engineering,Senior,2023-08-09,,,84865,3.8,EMP0022,Remote,True
+EMP0197,Douglas Atkins,HR,Mid,2023-11-29,,,68598,2.9,EMP0039,HQ,True
+EMP0198,Stephen Green,Engineering,Junior,2025-02-11,,,32673,3.1,EMP0018,Branch B,True
+EMP0199,Chloe Wallace,Marketing,Mid,2024-09-13,,,58951,3.3,EMP0014,HQ,True
+EMP0200,Amy Smith,HR,Mid,2023-10-18,,,69435,2.7,EMP0032,Branch A,True
+EMP0201,Victor Garcia,Engineering,Junior,2024-09-05,2025-03-18,Compensation,36921,3.2,EMP0050,Remote,False
+EMP0202,Patricia Charles,HR,Mid,2023-05-03,2025-09-03,Work-Life Balance,55757,3.6,EMP0009,Branch B,False
+EMP0203,Dustin Chapman,Operations,Senior,2024-05-27,,,81605,4.1,EMP0005,Branch B,True
+EMP0204,Sophia Pope,Marketing,Junior,2023-01-20,,,32551,3.5,EMP0021,Branch B,True
+EMP0205,Meagan Green,Operations,Mid,2024-10-17,,,53774,2.6,EMP0026,HQ,True
+EMP0206,Caroline Jackson,HR,Junior,2025-08-28,,,41857,2.5,EMP0006,Branch B,True
+EMP0207,Alex White,Engineering,Junior,2024-08-26,,,32577,3.3,EMP0026,Branch A,True
+EMP0208,Michael Barnett,Marketing,Mid,2023-12-08,,,52502,3.6,EMP0033,HQ,True
+EMP0209,Theresa Smith,Operations,Mid,2025-07-16,,,61504,3.6,EMP0047,Remote,True
+EMP0210,Kathryn Andrade,Sales,Junior,2023-09-20,2025-08-26,Relocation,32469,4.9,EMP0012,Branch B,False
+EMP0211,Jill Richards,Finance,Senior,2025-02-17,,,88497,3.9,EMP0042,Branch A,True
+EMP0212,Karl Stevens,Marketing,Mid,2024-03-26,2025-09-19,Career Growth,59922,3.9,EMP0018,HQ,False
+EMP0213,Krystal Anderson,HR,Mid,2023-11-14,,,51232,3.8,EMP0004,Branch A,True
+EMP0214,Michael Reyes,HR,Junior,2025-06-03,,,32958,3.3,EMP0040,Branch B,True
+EMP0215,Carlos Brooks,Finance,Mid,2025-03-21,,,51344,3.1,EMP0029,Remote,True
+EMP0216,Evelyn Parsons,HR,Senior,2024-05-28,2024-10-28,Work-Life Balance,73391,4.0,EMP0022,HQ,False
+EMP0217,Karen Martin,Operations,Senior,2023-02-10,,,84344,3.2,EMP0029,Remote,True
+EMP0218,Susan Warner,HR,Mid,2023-10-17,,,61087,3.2,EMP0044,HQ,True
+EMP0219,Paul Lucero,Marketing,Senior,2023-03-09,,,88283,3.4,EMP0044,Branch B,True
+EMP0220,Samantha Baxter,HR,Mid,2025-05-22,,,69749,3.3,EMP0010,Branch A,True
+EMP0221,Gary Malone,Engineering,Mid,2023-05-25,,,60165,4.5,EMP0042,Branch B,True
+EMP0222,Sarah Contreras,Sales,Mid,2025-08-18,2026-01-26,Work-Life Balance,60763,2.4,EMP0009,HQ,False
+EMP0223,Jessica Cohen,Marketing,Senior,2024-06-04,,,81881,3.9,EMP0020,Remote,True
+EMP0224,Debra Morgan,Sales,Mid,2025-02-23,,,57423,2.5,EMP0009,Remote,True
+EMP0225,David Harris,Engineering,Mid,2025-03-18,2025-07-05,Career Growth,61035,3.1,EMP0050,Remote,False
+EMP0226,Kevin Bell,Operations,Mid,2023-06-16,,,55424,3.8,EMP0047,Branch B,True
+EMP0227,Kendra Nolan,Engineering,Mid,2024-11-23,,,64555,3.3,EMP0040,Branch A,True
+EMP0228,Melissa Young,Marketing,Senior,2023-08-28,,,80140,3.1,EMP0031,Remote,True
+EMP0229,Bobby Kim,HR,Senior,2024-08-07,,,85128,3.2,EMP0050,Branch A,True
+EMP0230,Justin Crawford,Finance,Mid,2024-03-04,,,56543,3.6,EMP0039,Remote,True
+EMP0231,Sandra Smith,HR,Junior,2024-05-07,,,48171,2.6,EMP0007,HQ,True
+EMP0232,Brian Roman,HR,Junior,2023-06-14,2025-02-18,Relocation,44335,3.1,EMP0006,Remote,False
+EMP0233,Jon Gray,Finance,Lead,2025-08-10,2025-11-14,Work-Life Balance,101449,3.8,EMP0024,Remote,False
+EMP0234,Laura Wilson,Finance,Manager,2024-01-19,,,115442,3.4,EMP0007,Branch A,True
+EMP0235,Marcus Cunningham,Sales,Junior,2023-10-21,,,45481,4.1,EMP0045,Remote,True
+EMP0236,Todd Joseph,Marketing,Mid,2024-09-22,2025-01-30,Better Opportunity,58386,3.6,EMP0014,Remote,False
+EMP0237,Daniel Henry,Operations,Manager,2024-09-15,,,108643,2.7,EMP0050,Branch A,True
+EMP0238,Melinda Lee,Sales,Mid,2023-02-18,2025-03-03,Personal,64978,3.4,EMP0005,HQ,False
+EMP0239,Mrs. Stephanie Thomas,Finance,Mid,2023-01-17,,,68843,3.0,EMP0016,Remote,True
+EMP0240,Paul Savage,HR,Mid,2024-09-21,,,68699,3.7,EMP0027,Remote,True
+EMP0241,Brandon Wilson,Marketing,Senior,2024-06-20,,,72217,3.2,EMP0034,HQ,True
+EMP0242,Mark Huber,Finance,Lead,2023-02-14,,,97232,3.7,EMP0017,HQ,True
+EMP0243,Steve Jordan,HR,Senior,2023-12-20,,,73396,3.9,EMP0050,Branch A,True
+EMP0244,James Stephenson,Sales,Junior,2024-07-13,2025-09-05,Relocation,45224,3.4,EMP0045,Branch B,False
+EMP0245,Carrie Blackwell,Marketing,Junior,2023-05-19,2025-10-19,Work-Life Balance,31211,2.4,EMP0019,Remote,False
+EMP0246,Jennifer Harris,Engineering,Senior,2025-06-26,2025-12-12,Management Issues,83049,3.4,EMP0035,Branch B,False
+EMP0247,Mary Hartman,HR,Junior,2024-10-24,2025-07-23,Personal,31566,2.8,EMP0042,Branch A,False
+EMP0248,Eduardo Mullins,HR,Junior,2024-01-12,,,43107,2.7,EMP0048,Branch B,True
+EMP0249,Paige Garrett,Finance,Mid,2023-07-11,,,66302,4.2,EMP0024,Branch A,True
+EMP0250,Patricia Collins,Engineering,Senior,2023-03-22,,,75913,3.8,EMP0035,Branch A,True
+EMP0251,Sandra Williams,HR,Junior,2023-12-02,,,40043,2.4,EMP0029,Branch B,True
+EMP0252,Marcus Smith,Sales,Senior,2023-12-26,,,81552,4.1,EMP0040,Branch B,True
+EMP0253,Crystal Lin PhD,HR,Senior,2025-03-21,,,72458,4.7,EMP0043,Branch B,True
+EMP0254,Angela Harris,HR,Mid,2025-02-06,,,51020,3.8,EMP0010,Branch B,True
+EMP0255,James Thomas,Engineering,Junior,2023-08-30,,,42003,2.2,EMP0024,Branch B,True
+EMP0256,Jaime Jackson MD,Operations,Junior,2023-06-07,,,42155,2.8,EMP0024,Branch B,True
+EMP0257,Alexandra Allen,Engineering,Mid,2024-06-26,,,60301,3.9,EMP0042,Branch A,True
+EMP0258,Christy Mason,Sales,Manager,2023-01-27,,,121352,3.3,EMP0034,Branch B,True
+EMP0259,Haley Williams,Operations,Junior,2025-03-04,2026-01-16,Relocation,39357,3.2,EMP0045,Branch B,False
+EMP0260,Michele Rodriguez,Sales,Junior,2025-05-23,2025-10-04,Career Growth,44585,3.4,EMP0006,Branch A,False
+EMP0261,Amy Ward,Marketing,Mid,2023-03-08,,,59514,2.8,EMP0020,Remote,True
+EMP0262,Justin Hammond,Marketing,Senior,2024-12-18,,,81845,3.6,EMP0033,Remote,True
+EMP0263,Cynthia Allen,Engineering,Manager,2025-03-22,2026-01-08,Work-Life Balance,105861,2.1,EMP0024,Branch A,False
+EMP0264,Jane Rodriguez,Finance,Lead,2024-07-18,2026-01-11,Better Opportunity,87154,3.3,EMP0020,Branch B,False
+EMP0265,Stephanie Franklin,Marketing,Senior,2024-06-22,,,83416,3.5,EMP0037,HQ,True
+EMP0266,Nicole Morris MD,Sales,Manager,2024-10-19,2025-09-12,Career Growth,121952,3.1,EMP0023,Remote,False
+EMP0267,Claudia Alvarez,Operations,Senior,2023-07-06,,,74228,4.4,EMP0028,HQ,True
+EMP0268,Amy Cole,Engineering,Mid,2023-11-08,2025-01-01,Career Growth,57388,2.6,EMP0023,Branch A,False
+EMP0269,Rodney Jefferson,Engineering,Mid,2024-10-12,,,58993,3.1,EMP0009,Branch A,True
+EMP0270,Nicholas Ward,Operations,Mid,2024-05-29,,,69392,3.4,EMP0038,Remote,True
+EMP0271,Ashley Reed,Sales,Senior,2025-01-07,,,81063,4.3,EMP0037,HQ,True
+EMP0272,Bradley Hayes,Engineering,Junior,2025-08-29,,,48899,2.3,EMP0017,Remote,True
+EMP0273,Anita Carey,Operations,Mid,2024-10-16,2025-12-01,Management Issues,59491,3.9,EMP0042,Branch A,False
+EMP0274,David Duran,Finance,Junior,2025-04-06,,,39746,3.0,EMP0030,HQ,True
+EMP0275,Jenny White,Marketing,Junior,2024-03-26,,,45218,2.5,EMP0014,Branch A,True
+EMP0276,Michael Rodriguez,Operations,Junior,2025-06-01,,,41317,3.2,EMP0026,Remote,True
+EMP0277,Mariah Harper,HR,Mid,2023-04-19,,,65285,3.4,EMP0008,Branch A,True
+EMP0278,Betty Jones,Finance,Junior,2023-04-10,2024-08-05,Personal,43701,2.7,EMP0016,Remote,False
+EMP0279,Jonathan Johnson,HR,Manager,2025-01-08,,,110221,3.7,EMP0032,Branch B,True
+EMP0280,Joseph Jackson,Finance,Lead,2024-05-24,2025-09-28,Management Issues,99982,3.6,EMP0016,Remote,False
+EMP0281,Jacqueline Williams,Operations,Mid,2023-02-21,,,69579,3.4,EMP0042,Branch B,True
+EMP0282,Jillian Sutton,HR,Mid,2025-05-17,2025-09-18,Compensation,61985,3.6,EMP0049,Branch B,False
+EMP0283,Donald Kane,HR,Junior,2023-02-22,,,36378,3.8,EMP0024,Branch A,True
+EMP0284,George Sparks,Engineering,Mid,2024-04-06,,,59165,2.7,EMP0040,HQ,True
+EMP0285,Bobby Hoffman,Sales,Manager,2024-02-08,,,116111,4.8,EMP0036,Branch A,True
+EMP0286,Alexandra Wright,Sales,Junior,2024-06-05,,,31319,2.0,EMP0003,HQ,True
+EMP0287,Katie Newman,Sales,Senior,2025-04-03,,,84974,3.5,EMP0010,Remote,True
+EMP0288,Sandra Martinez,HR,Manager,2023-11-23,2025-11-13,Career Growth,114805,4.0,EMP0038,Branch A,False
+EMP0289,John Perry,Operations,Lead,2024-06-29,,,103445,3.9,EMP0020,Branch B,True
+EMP0290,Amber Harris,Engineering,Mid,2024-11-20,2025-09-19,Management Issues,60081,3.0,EMP0047,HQ,False
+EMP0291,Donna Gonzalez,Operations,Mid,2024-11-02,,,68955,3.2,EMP0037,Remote,True
+EMP0292,Juan Perez,Marketing,Junior,2024-05-06,2025-08-28,Relocation,37936,2.8,EMP0003,HQ,False
+EMP0293,Sean Castillo,Sales,Junior,2023-11-18,,,43531,2.7,EMP0045,Remote,True
+EMP0294,Gabriela Stephenson,Finance,Mid,2024-09-18,,,52040,3.7,EMP0046,Remote,True
+EMP0295,Stefanie Miles,Operations,Junior,2023-11-29,,,45675,3.2,EMP0034,Branch B,True
+EMP0296,Mary Cummings,HR,Manager,2024-04-15,,,116217,3.4,EMP0035,Branch A,True
+EMP0297,Johnny Anderson,Marketing,Senior,2025-01-08,,,78662,4.0,EMP0040,Branch B,True
+EMP0298,Daniel Rogers,Sales,Manager,2023-10-13,,,112368,3.9,EMP0020,Branch A,True
+EMP0299,Ashley Vega,Marketing,Junior,2024-12-22,,,45722,3.4,EMP0023,Branch A,True
+EMP0300,Barbara Russell,HR,Junior,2024-11-23,,,42928,3.3,EMP0023,Remote,True

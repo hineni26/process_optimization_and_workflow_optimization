@@ -1,0 +1,7 @@
+department,avg_score,std_dev,reviews
+Engineering,3.47,0.73,80
+Finance,3.41,0.6,75
+Marketing,3.37,0.61,89
+Operations,3.37,0.62,85
+Sales,3.35,0.78,82
+HR,3.29,0.61,81

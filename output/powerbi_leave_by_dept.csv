@@ -1,0 +1,7 @@
+department,total_leave_days,avg_leave_per_request,total_requests,unapproved
+Marketing,1365,4.0,339,46
+Sales,1309,4.3,307,41
+Engineering,1178,3.9,299,27
+Operations,1155,4.1,284,32
+Finance,1140,4.0,285,30
+HR,1074,3.9,276,31
